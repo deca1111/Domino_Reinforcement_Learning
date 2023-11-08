@@ -1,0 +1,4 @@
+Fin des 1000 parties !
+Temps total : 3.27361 secondes
+Temps moyen par partie : 0.00327 secondes
+Nombre moyen de parties par minutes : 18328

@@ -1,0 +1,3 @@
+Fin des 1000 parties !
+Temps moyen : 0.00362 secondes par parties
+Nombre moyen de parties pas minutes : 16577
