@@ -1,5 +1,6 @@
 from typing import Tuple
-from pieceDomino import PieceDomino
+
+from dominoObjectOrientedVersion.pieceDomino import PieceDomino
 
 
 class ActionDomino:

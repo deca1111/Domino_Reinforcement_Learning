@@ -1,9 +1,8 @@
 from typing import List, Tuple
 
-from dominoGame import DominoGame
-from actionDomino import ActionDomino
-from pieceDomino import PieceDomino
-from playerdomino import PlayerDomino
+from dominoObjectOrientedVersion.actionDomino import ActionDomino
+from dominoObjectOrientedVersion.pieceDomino import PieceDomino
+from dominoObjectOrientedVersion.playerdomino import PlayerDomino
 
 
 class PlayerDominoHumain(PlayerDomino):

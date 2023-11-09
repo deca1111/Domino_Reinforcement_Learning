@@ -3,9 +3,9 @@ import random
 from itertools import combinations_with_replacement, product
 from typing import List
 
-from actionDomino import ActionDomino
-from pieceDomino import PieceDomino
-from playerdomino import PlayerDomino
+from dominoObjectOrientedVersion.actionDomino import ActionDomino
+from dominoObjectOrientedVersion.pieceDomino import PieceDomino
+from dominoObjectOrientedVersion.playerdomino import PlayerDomino
 
 
 class DominoGame:

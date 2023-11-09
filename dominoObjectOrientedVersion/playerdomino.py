@@ -2,8 +2,8 @@ import random
 from typing import List, Tuple
 import builtins
 
-from actionDomino import ActionDomino
-from pieceDomino import PieceDomino
+from dominoObjectOrientedVersion.actionDomino import ActionDomino
+from dominoObjectOrientedVersion.pieceDomino import PieceDomino
 
 
 class PlayerDomino:

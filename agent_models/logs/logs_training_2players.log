@@ -1,0 +1,700 @@
+08-Nov-23 23:37:30 - WARNING - Start training : 15000 games
+08-Nov-23 23:37:48 - INFO - [Game 100] - Temps total écoulé: 0:0:17 - Temps moyen 100 games: 0:17 - % victoire : 0.6% - Remplissage mémoire 0.36%
+08-Nov-23 23:38:12 - INFO - [Game 200] - Temps total écoulé: 0:0:41 - Temps moyen 100 games: 0:20 - % victoire : 0.52% - Remplissage mémoire 0.69%
+08-Nov-23 23:38:37 - INFO - [Game 300] - Temps total écoulé: 0:1:6 - Temps moyen 100 games: 0:22 - % victoire : 0.5% - Remplissage mémoire 1.03%
+08-Nov-23 23:39:01 - INFO - [Game 400] - Temps total écoulé: 0:1:30 - Temps moyen 100 games: 0:22 - % victoire : 0.505% - Remplissage mémoire 1.38%
+08-Nov-23 23:39:26 - INFO - [Game 500] - Temps total écoulé: 0:1:55 - Temps moyen 100 games: 0:23 - % victoire : 0.504% - Remplissage mémoire 1.71%
+08-Nov-23 23:39:50 - INFO - [Game 600] - Temps total écoulé: 0:2:19 - Temps moyen 100 games: 0:23 - % victoire : 0.50333% - Remplissage mémoire 2.05%
+08-Nov-23 23:40:15 - INFO - [Game 700] - Temps total écoulé: 0:2:44 - Temps moyen 100 games: 0:23 - % victoire : 0.50429% - Remplissage mémoire 2.39%
+08-Nov-23 23:40:39 - INFO - [Game 800] - Temps total écoulé: 0:3:8 - Temps moyen 100 games: 0:23 - % victoire : 0.5125% - Remplissage mémoire 2.73%
+08-Nov-23 23:41:04 - INFO - [Game 900] - Temps total écoulé: 0:3:33 - Temps moyen 100 games: 0:23 - % victoire : 0.52% - Remplissage mémoire 3.06%
+08-Nov-23 23:41:28 - INFO - [Game 1000] - Temps total écoulé: 0:3:58 - Temps moyen 100 games: 0:23 - % victoire : 0.518% - Remplissage mémoire 3.39%
+08-Nov-23 23:41:53 - INFO - [Game 1100] - Temps total écoulé: 0:4:22 - Temps moyen 100 games: 0:23 - % victoire : 0.51% - Remplissage mémoire 3.72%
+08-Nov-23 23:42:17 - INFO - [Game 1200] - Temps total écoulé: 0:4:47 - Temps moyen 100 games: 0:23 - % victoire : 0.51417% - Remplissage mémoire 4.05%
+08-Nov-23 23:42:42 - INFO - [Game 1300] - Temps total écoulé: 0:5:11 - Temps moyen 100 games: 0:23 - % victoire : 0.51769% - Remplissage mémoire 4.38%
+08-Nov-23 23:43:06 - INFO - [Game 1400] - Temps total écoulé: 0:5:35 - Temps moyen 100 games: 0:23 - % victoire : 0.52429% - Remplissage mémoire 4.72%
+08-Nov-23 23:43:30 - INFO - [Game 1500] - Temps total écoulé: 0:5:59 - Temps moyen 100 games: 0:23 - % victoire : 0.51933% - Remplissage mémoire 5.04%
+08-Nov-23 23:43:54 - INFO - [Game 1600] - Temps total écoulé: 0:6:24 - Temps moyen 100 games: 0:24 - % victoire : 0.515% - Remplissage mémoire 5.38%
+08-Nov-23 23:44:19 - INFO - [Game 1700] - Temps total écoulé: 0:6:48 - Temps moyen 100 games: 0:24 - % victoire : 0.51765% - Remplissage mémoire 5.72%
+08-Nov-23 23:44:43 - INFO - [Game 1800] - Temps total écoulé: 0:7:13 - Temps moyen 100 games: 0:24 - % victoire : 0.51167% - Remplissage mémoire 6.04%
+08-Nov-23 23:49:15 - WARNING - Start training : 15000 games
+08-Nov-23 23:49:33 - INFO - [Game 100] - Temps total écoulé: 0:0:17 - Temps moyen 100 games: 0:17 - % victoire : 0.51% - Remplissage mémoire 0.35%
+08-Nov-23 23:49:57 - INFO - [Game 200] - Temps total écoulé: 0:0:41 - Temps moyen 100 games: 0:20 - % victoire : 0.49% - Remplissage mémoire 0.69%
+08-Nov-23 23:50:06 - WARNING - Start training : 15000 games
+08-Nov-23 23:50:23 - INFO - [Game 100] - Temps total écoulé: 0:0:17 - Temps moyen 100 games: 0:17 - % victoire : 0.48% - Remplissage mémoire 0.35%
+08-Nov-23 23:50:48 - INFO - [Game 200] - Temps total écoulé: 0:0:41 - Temps moyen 100 games: 0:20 - % victoire : 0.48% - Remplissage mémoire 0.69%
+08-Nov-23 23:51:13 - INFO - [Game 300] - Temps total écoulé: 0:1:6 - Temps moyen 100 games: 0:22 - % victoire : 0.49% - Remplissage mémoire 1.04%
+08-Nov-23 23:51:51 - WARNING - Start training : 15000 games
+08-Nov-23 23:52:08 - INFO - [Game 100] - Temps total écoulé: 0:0:17 - Temps moyen 100 games: 0:17 - % victoire : 0.5% - Remplissage mémoire 0.33%
+08-Nov-23 23:52:33 - INFO - [Game 200] - Temps total écoulé: 0:0:41 - Temps moyen 100 games: 0:20 - % victoire : 0.425% - Remplissage mémoire 0.66%
+08-Nov-23 23:52:57 - INFO - [Game 300] - Temps total écoulé: 0:1:5 - Temps moyen 100 games: 0:21 - % victoire : 0.42333% - Remplissage mémoire 0.97%
+08-Nov-23 23:53:08 - WARNING - Start training : 15000 games
+08-Nov-23 23:53:25 - INFO - [Game 100] - Temps total écoulé: 0:0:17 - Temps moyen 100 games: 0:17 - % victoire : 0.47% - Remplissage mémoire 0.34%
+08-Nov-23 23:54:17 - WARNING - Start training : 15000 games
+08-Nov-23 23:54:33 - INFO - [Game 100] - Temps total écoulé: 0:0:16 - Temps moyen 100 games: 0:16 - % victoire : 0.43% - Remplissage mémoire 0.35%
+08-Nov-23 23:54:58 - INFO - [Game 200] - Temps total écoulé: 0:0:41 - Temps moyen 100 games: 0:20 - % victoire : 0.37% - Remplissage mémoire 0.68%
+08-Nov-23 23:55:22 - INFO - [Game 300] - Temps total écoulé: 0:1:5 - Temps moyen 100 games: 0:21 - % victoire : 0.44333% - Remplissage mémoire 1.02%
+08-Nov-23 23:55:46 - INFO - [Game 400] - Temps total écoulé: 0:1:29 - Temps moyen 100 games: 0:22 - % victoire : 0.4525% - Remplissage mémoire 1.36%
+08-Nov-23 23:56:11 - INFO - [Game 500] - Temps total écoulé: 0:1:53 - Temps moyen 100 games: 0:22 - % victoire : 0.454% - Remplissage mémoire 1.69%
+08-Nov-23 23:56:35 - INFO - [Game 600] - Temps total écoulé: 0:2:18 - Temps moyen 100 games: 0:22 - % victoire : 0.45667% - Remplissage mémoire 2.03%
+08-Nov-23 23:56:59 - INFO - [Game 700] - Temps total écoulé: 0:2:42 - Temps moyen 100 games: 0:23 - % victoire : 0.46286% - Remplissage mémoire 2.37%
+08-Nov-23 23:57:23 - INFO - [Game 800] - Temps total écoulé: 0:3:6 - Temps moyen 100 games: 0:23 - % victoire : 0.4675% - Remplissage mémoire 2.71%
+08-Nov-23 23:57:48 - INFO - [Game 900] - Temps total écoulé: 0:3:30 - Temps moyen 100 games: 0:23 - % victoire : 0.47556% - Remplissage mémoire 3.05%
+08-Nov-23 23:58:11 - INFO - [Game 1000] - Temps total écoulé: 0:3:54 - Temps moyen 100 games: 0:23 - % victoire : 0.482% - Remplissage mémoire 3.38%
+08-Nov-23 23:58:35 - INFO - [Game 1100] - Temps total écoulé: 0:4:18 - Temps moyen 100 games: 0:23 - % victoire : 0.48636% - Remplissage mémoire 3.73%
+08-Nov-23 23:58:59 - INFO - [Game 1200] - Temps total écoulé: 0:4:42 - Temps moyen 100 games: 0:23 - % victoire : 0.47583% - Remplissage mémoire 4.04%
+08-Nov-23 23:59:24 - INFO - [Game 1300] - Temps total écoulé: 0:5:7 - Temps moyen 100 games: 0:23 - % victoire : 0.47231% - Remplissage mémoire 4.39%
+08-Nov-23 23:59:49 - INFO - [Game 1400] - Temps total écoulé: 0:5:31 - Temps moyen 100 games: 0:23 - % victoire : 0.47643% - Remplissage mémoire 4.71%
+09-Nov-23 00:00:12 - INFO - [Game 1500] - Temps total écoulé: 0:5:55 - Temps moyen 100 games: 0:23 - % victoire : 0.47333% - Remplissage mémoire 5.04%
+09-Nov-23 00:00:36 - INFO - [Game 1600] - Temps total écoulé: 0:6:19 - Temps moyen 100 games: 0:23 - % victoire : 0.4725% - Remplissage mémoire 5.39%
+09-Nov-23 00:01:00 - INFO - [Game 1700] - Temps total écoulé: 0:6:43 - Temps moyen 100 games: 0:23 - % victoire : 0.47353% - Remplissage mémoire 5.72%
+09-Nov-23 00:01:25 - INFO - [Game 1800] - Temps total écoulé: 0:7:8 - Temps moyen 100 games: 0:23 - % victoire : 0.47778% - Remplissage mémoire 6.04%
+09-Nov-23 00:01:49 - INFO - [Game 1900] - Temps total écoulé: 0:7:32 - Temps moyen 100 games: 0:23 - % victoire : 0.48053% - Remplissage mémoire 6.39%
+09-Nov-23 00:02:13 - INFO - [Game 2000] - Temps total écoulé: 0:7:56 - Temps moyen 100 games: 0:23 - % victoire : 0.4845% - Remplissage mémoire 6.73%
+09-Nov-23 00:02:38 - INFO - [Game 2100] - Temps total écoulé: 0:8:20 - Temps moyen 100 games: 0:23 - % victoire : 0.48333% - Remplissage mémoire 7.05%
+09-Nov-23 00:03:02 - INFO - [Game 2200] - Temps total écoulé: 0:8:45 - Temps moyen 100 games: 0:23 - % victoire : 0.48818% - Remplissage mémoire 7.4%
+09-Nov-23 00:03:26 - INFO - [Game 2300] - Temps total écoulé: 0:9:9 - Temps moyen 100 games: 0:23 - % victoire : 0.49174% - Remplissage mémoire 7.74%
+09-Nov-23 00:03:50 - INFO - [Game 2400] - Temps total écoulé: 0:9:33 - Temps moyen 100 games: 0:23 - % victoire : 0.495% - Remplissage mémoire 8.08%
+09-Nov-23 00:04:14 - INFO - [Game 2500] - Temps total écoulé: 0:9:57 - Temps moyen 100 games: 0:23 - % victoire : 0.4968% - Remplissage mémoire 8.43%
+09-Nov-23 00:04:38 - INFO - [Game 2600] - Temps total écoulé: 0:10:21 - Temps moyen 100 games: 0:23 - % victoire : 0.49577% - Remplissage mémoire 8.76%
+09-Nov-23 00:05:02 - INFO - [Game 2700] - Temps total écoulé: 0:10:45 - Temps moyen 100 games: 0:23 - % victoire : 0.49704% - Remplissage mémoire 9.12%
+09-Nov-23 00:05:27 - INFO - [Game 2800] - Temps total écoulé: 0:11:10 - Temps moyen 100 games: 0:23 - % victoire : 0.49929% - Remplissage mémoire 9.44%
+09-Nov-23 00:05:51 - INFO - [Game 2900] - Temps total écoulé: 0:11:34 - Temps moyen 100 games: 0:23 - % victoire : 0.50172% - Remplissage mémoire 9.78%
+09-Nov-23 00:06:17 - INFO - [Game 3000] - Temps total écoulé: 0:11:59 - Temps moyen 100 games: 0:23 - % victoire : 0.505% - Remplissage mémoire 10.13%
+09-Nov-23 00:06:41 - INFO - [Game 3100] - Temps total écoulé: 0:12:24 - Temps moyen 100 games: 0:23 - % victoire : 0.50452% - Remplissage mémoire 10.48%
+09-Nov-23 00:07:05 - INFO - [Game 3200] - Temps total écoulé: 0:12:48 - Temps moyen 100 games: 0:23 - % victoire : 0.50594% - Remplissage mémoire 10.83%
+09-Nov-23 00:07:30 - INFO - [Game 3300] - Temps total écoulé: 0:13:12 - Temps moyen 100 games: 0:23 - % victoire : 0.50848% - Remplissage mémoire 11.18%
+09-Nov-23 00:07:54 - INFO - [Game 3400] - Temps total écoulé: 0:13:36 - Temps moyen 100 games: 0:23 - % victoire : 0.50794% - Remplissage mémoire 11.51%
+09-Nov-23 00:08:17 - INFO - [Game 3500] - Temps total écoulé: 0:14:0 - Temps moyen 100 games: 0:23 - % victoire : 0.508% - Remplissage mémoire 11.84%
+09-Nov-23 00:08:42 - INFO - [Game 3600] - Temps total écoulé: 0:14:24 - Temps moyen 100 games: 0:23 - % victoire : 0.50778% - Remplissage mémoire 12.19%
+09-Nov-23 00:09:06 - INFO - [Game 3700] - Temps total écoulé: 0:14:49 - Temps moyen 100 games: 0:23 - % victoire : 0.50514% - Remplissage mémoire 12.53%
+09-Nov-23 00:09:30 - INFO - [Game 3800] - Temps total écoulé: 0:15:13 - Temps moyen 100 games: 0:23 - % victoire : 0.50684% - Remplissage mémoire 12.87%
+09-Nov-23 00:09:54 - INFO - [Game 3900] - Temps total écoulé: 0:15:37 - Temps moyen 100 games: 0:23 - % victoire : 0.50846% - Remplissage mémoire 13.21%
+09-Nov-23 00:10:18 - INFO - [Game 4000] - Temps total écoulé: 0:16:1 - Temps moyen 100 games: 0:23 - % victoire : 0.509% - Remplissage mémoire 13.53%
+09-Nov-23 00:10:42 - INFO - [Game 4100] - Temps total écoulé: 0:16:25 - Temps moyen 100 games: 0:23 - % victoire : 0.50829% - Remplissage mémoire 13.86%
+09-Nov-23 00:11:07 - INFO - [Game 4200] - Temps total écoulé: 0:16:50 - Temps moyen 100 games: 0:23 - % victoire : 0.50786% - Remplissage mémoire 14.19%
+09-Nov-23 00:11:31 - INFO - [Game 4300] - Temps total écoulé: 0:17:14 - Temps moyen 100 games: 0:23 - % victoire : 0.5093% - Remplissage mémoire 14.51%
+09-Nov-23 00:11:56 - INFO - [Game 4400] - Temps total écoulé: 0:17:39 - Temps moyen 100 games: 0:23 - % victoire : 0.50977% - Remplissage mémoire 14.85%
+09-Nov-23 00:12:20 - INFO - [Game 4500] - Temps total écoulé: 0:18:3 - Temps moyen 100 games: 0:23 - % victoire : 0.50911% - Remplissage mémoire 15.18%
+09-Nov-23 00:12:45 - INFO - [Game 4600] - Temps total écoulé: 0:18:28 - Temps moyen 100 games: 0:23 - % victoire : 0.51152% - Remplissage mémoire 15.53%
+09-Nov-23 00:13:09 - INFO - [Game 4700] - Temps total écoulé: 0:18:52 - Temps moyen 100 games: 0:23 - % victoire : 0.51277% - Remplissage mémoire 15.87%
+09-Nov-23 00:13:33 - INFO - [Game 4800] - Temps total écoulé: 0:19:16 - Temps moyen 100 games: 0:23 - % victoire : 0.51229% - Remplissage mémoire 16.22%
+09-Nov-23 00:13:58 - INFO - [Game 4900] - Temps total écoulé: 0:19:41 - Temps moyen 100 games: 0:23 - % victoire : 0.51327% - Remplissage mémoire 16.56%
+09-Nov-23 00:14:24 - INFO - [Game 5000] - Temps total écoulé: 0:20:6 - Temps moyen 100 games: 0:24 - % victoire : 0.5132% - Remplissage mémoire 16.89%
+09-Nov-23 00:14:48 - INFO - [Game 5100] - Temps total écoulé: 0:20:31 - Temps moyen 100 games: 0:24 - % victoire : 0.51196% - Remplissage mémoire 17.21%
+09-Nov-23 00:15:12 - INFO - [Game 5200] - Temps total écoulé: 0:20:55 - Temps moyen 100 games: 0:24 - % victoire : 0.51192% - Remplissage mémoire 17.54%
+09-Nov-23 00:15:37 - INFO - [Game 5300] - Temps total écoulé: 0:21:19 - Temps moyen 100 games: 0:24 - % victoire : 0.51226% - Remplissage mémoire 17.87%
+09-Nov-23 00:16:01 - INFO - [Game 5400] - Temps total écoulé: 0:21:43 - Temps moyen 100 games: 0:24 - % victoire : 0.51352% - Remplissage mémoire 18.2%
+09-Nov-23 00:16:25 - INFO - [Game 5500] - Temps total écoulé: 0:22:8 - Temps moyen 100 games: 0:24 - % victoire : 0.51527% - Remplissage mémoire 18.55%
+09-Nov-23 00:16:49 - INFO - [Game 5600] - Temps total écoulé: 0:22:32 - Temps moyen 100 games: 0:24 - % victoire : 0.51518% - Remplissage mémoire 18.89%
+09-Nov-23 00:17:13 - INFO - [Game 5700] - Temps total écoulé: 0:22:56 - Temps moyen 100 games: 0:24 - % victoire : 0.51544% - Remplissage mémoire 19.24%
+09-Nov-23 00:17:37 - INFO - [Game 5800] - Temps total écoulé: 0:23:20 - Temps moyen 100 games: 0:24 - % victoire : 0.51552% - Remplissage mémoire 19.57%
+09-Nov-23 00:18:03 - INFO - [Game 5900] - Temps total écoulé: 0:23:45 - Temps moyen 100 games: 0:24 - % victoire : 0.51508% - Remplissage mémoire 19.9%
+09-Nov-23 00:18:28 - INFO - [Game 6000] - Temps total écoulé: 0:24:10 - Temps moyen 100 games: 0:24 - % victoire : 0.51583% - Remplissage mémoire 20.23%
+09-Nov-23 00:18:52 - INFO - [Game 6100] - Temps total écoulé: 0:24:35 - Temps moyen 100 games: 0:24 - % victoire : 0.51639% - Remplissage mémoire 20.57%
+09-Nov-23 00:19:17 - INFO - [Game 6200] - Temps total écoulé: 0:24:59 - Temps moyen 100 games: 0:24 - % victoire : 0.51548% - Remplissage mémoire 20.91%
+09-Nov-23 00:19:41 - INFO - [Game 6300] - Temps total écoulé: 0:25:24 - Temps moyen 100 games: 0:24 - % victoire : 0.51603% - Remplissage mémoire 21.25%
+09-Nov-23 00:20:05 - INFO - [Game 6400] - Temps total écoulé: 0:25:48 - Temps moyen 100 games: 0:24 - % victoire : 0.51562% - Remplissage mémoire 21.59%
+09-Nov-23 00:20:29 - INFO - [Game 6500] - Temps total écoulé: 0:26:12 - Temps moyen 100 games: 0:24 - % victoire : 0.51631% - Remplissage mémoire 21.93%
+09-Nov-23 00:20:53 - INFO - [Game 6600] - Temps total écoulé: 0:26:36 - Temps moyen 100 games: 0:24 - % victoire : 0.51667% - Remplissage mémoire 22.26%
+09-Nov-23 00:21:17 - INFO - [Game 6700] - Temps total écoulé: 0:27:0 - Temps moyen 100 games: 0:24 - % victoire : 0.51716% - Remplissage mémoire 22.59%
+09-Nov-23 00:21:42 - INFO - [Game 6800] - Temps total écoulé: 0:27:25 - Temps moyen 100 games: 0:24 - % victoire : 0.5175% - Remplissage mémoire 22.94%
+09-Nov-23 00:22:07 - INFO - [Game 6900] - Temps total écoulé: 0:27:50 - Temps moyen 100 games: 0:24 - % victoire : 0.51754% - Remplissage mémoire 23.3%
+09-Nov-23 00:22:31 - INFO - [Game 7000] - Temps total écoulé: 0:28:14 - Temps moyen 100 games: 0:24 - % victoire : 0.519% - Remplissage mémoire 23.65%
+09-Nov-23 00:22:56 - INFO - [Game 7100] - Temps total écoulé: 0:28:39 - Temps moyen 100 games: 0:24 - % victoire : 0.52056% - Remplissage mémoire 24.0%
+09-Nov-23 00:23:21 - INFO - [Game 7200] - Temps total écoulé: 0:29:4 - Temps moyen 100 games: 0:24 - % victoire : 0.52% - Remplissage mémoire 24.33%
+09-Nov-23 00:23:45 - INFO - [Game 7300] - Temps total écoulé: 0:29:28 - Temps moyen 100 games: 0:24 - % victoire : 0.5211% - Remplissage mémoire 24.67%
+09-Nov-23 00:24:10 - INFO - [Game 7400] - Temps total écoulé: 0:29:53 - Temps moyen 100 games: 0:24 - % victoire : 0.52216% - Remplissage mémoire 25.01%
+09-Nov-23 00:24:34 - INFO - [Game 7500] - Temps total écoulé: 0:30:17 - Temps moyen 100 games: 0:24 - % victoire : 0.52307% - Remplissage mémoire 25.36%
+09-Nov-23 00:24:58 - INFO - [Game 7600] - Temps total écoulé: 0:30:41 - Temps moyen 100 games: 0:24 - % victoire : 0.52263% - Remplissage mémoire 25.69%
+09-Nov-23 00:25:22 - INFO - [Game 7700] - Temps total écoulé: 0:31:5 - Temps moyen 100 games: 0:24 - % victoire : 0.52338% - Remplissage mémoire 26.02%
+09-Nov-23 00:25:47 - INFO - [Game 7800] - Temps total écoulé: 0:31:29 - Temps moyen 100 games: 0:24 - % victoire : 0.52462% - Remplissage mémoire 26.35%
+09-Nov-23 00:26:11 - INFO - [Game 7900] - Temps total écoulé: 0:31:54 - Temps moyen 100 games: 0:24 - % victoire : 0.52506% - Remplissage mémoire 26.69%
+09-Nov-23 00:26:35 - INFO - [Game 8000] - Temps total écoulé: 0:32:18 - Temps moyen 100 games: 0:24 - % victoire : 0.52575% - Remplissage mémoire 27.03%
+09-Nov-23 00:27:00 - INFO - [Game 8100] - Temps total écoulé: 0:32:43 - Temps moyen 100 games: 0:24 - % victoire : 0.5263% - Remplissage mémoire 27.36%
+09-Nov-23 00:27:24 - INFO - [Game 8200] - Temps total écoulé: 0:33:7 - Temps moyen 100 games: 0:24 - % victoire : 0.52622% - Remplissage mémoire 27.69%
+09-Nov-23 00:27:48 - INFO - [Game 8300] - Temps total écoulé: 0:33:31 - Temps moyen 100 games: 0:24 - % victoire : 0.52639% - Remplissage mémoire 28.03%
+09-Nov-23 00:28:13 - INFO - [Game 8400] - Temps total écoulé: 0:33:56 - Temps moyen 100 games: 0:24 - % victoire : 0.5269% - Remplissage mémoire 28.37%
+09-Nov-23 00:28:38 - INFO - [Game 8500] - Temps total écoulé: 0:34:21 - Temps moyen 100 games: 0:24 - % victoire : 0.52671% - Remplissage mémoire 28.71%
+09-Nov-23 00:29:02 - INFO - [Game 8600] - Temps total écoulé: 0:34:45 - Temps moyen 100 games: 0:24 - % victoire : 0.52674% - Remplissage mémoire 29.05%
+09-Nov-23 00:29:27 - INFO - [Game 8700] - Temps total écoulé: 0:35:10 - Temps moyen 100 games: 0:24 - % victoire : 0.52701% - Remplissage mémoire 29.38%
+09-Nov-23 00:29:51 - INFO - [Game 8800] - Temps total écoulé: 0:35:34 - Temps moyen 100 games: 0:24 - % victoire : 0.52705% - Remplissage mémoire 29.7%
+09-Nov-23 00:30:16 - INFO - [Game 8900] - Temps total écoulé: 0:35:59 - Temps moyen 100 games: 0:24 - % victoire : 0.52663% - Remplissage mémoire 30.03%
+09-Nov-23 00:30:42 - INFO - [Game 9000] - Temps total écoulé: 0:36:25 - Temps moyen 100 games: 0:24 - % victoire : 0.52689% - Remplissage mémoire 30.37%
+09-Nov-23 00:31:07 - INFO - [Game 9100] - Temps total écoulé: 0:36:50 - Temps moyen 100 games: 0:24 - % victoire : 0.52747% - Remplissage mémoire 30.7%
+09-Nov-23 00:31:32 - INFO - [Game 9200] - Temps total écoulé: 0:37:15 - Temps moyen 100 games: 0:24 - % victoire : 0.52739% - Remplissage mémoire 31.03%
+09-Nov-23 00:31:57 - INFO - [Game 9300] - Temps total écoulé: 0:37:39 - Temps moyen 100 games: 0:24 - % victoire : 0.52785% - Remplissage mémoire 31.36%
+09-Nov-23 00:32:22 - INFO - [Game 9400] - Temps total écoulé: 0:38:5 - Temps moyen 100 games: 0:24 - % victoire : 0.52809% - Remplissage mémoire 31.69%
+09-Nov-23 00:32:47 - INFO - [Game 9500] - Temps total écoulé: 0:38:30 - Temps moyen 100 games: 0:24 - % victoire : 0.528% - Remplissage mémoire 32.03%
+09-Nov-23 00:33:13 - INFO - [Game 9600] - Temps total écoulé: 0:38:56 - Temps moyen 100 games: 0:24 - % victoire : 0.52823% - Remplissage mémoire 32.36%
+09-Nov-23 00:33:38 - INFO - [Game 9700] - Temps total écoulé: 0:39:21 - Temps moyen 100 games: 0:24 - % victoire : 0.52825% - Remplissage mémoire 32.71%
+09-Nov-23 00:34:03 - INFO - [Game 9800] - Temps total écoulé: 0:39:46 - Temps moyen 100 games: 0:24 - % victoire : 0.52796% - Remplissage mémoire 33.05%
+09-Nov-23 00:34:28 - INFO - [Game 9900] - Temps total écoulé: 0:40:11 - Temps moyen 100 games: 0:24 - % victoire : 0.52808% - Remplissage mémoire 33.39%
+09-Nov-23 00:34:54 - INFO - [Game 10000] - Temps total écoulé: 0:40:37 - Temps moyen 100 games: 0:24 - % victoire : 0.5287% - Remplissage mémoire 33.73%
+09-Nov-23 00:35:19 - INFO - [Game 10100] - Temps total écoulé: 0:41:2 - Temps moyen 100 games: 0:24 - % victoire : 0.52861% - Remplissage mémoire 34.06%
+09-Nov-23 00:35:44 - INFO - [Game 10200] - Temps total écoulé: 0:41:27 - Temps moyen 100 games: 0:24 - % victoire : 0.52833% - Remplissage mémoire 34.4%
+09-Nov-23 00:36:09 - INFO - [Game 10300] - Temps total écoulé: 0:41:52 - Temps moyen 100 games: 0:24 - % victoire : 0.52971% - Remplissage mémoire 34.74%
+09-Nov-23 00:36:34 - INFO - [Game 10400] - Temps total écoulé: 0:42:17 - Temps moyen 100 games: 0:24 - % victoire : 0.5301% - Remplissage mémoire 35.06%
+09-Nov-23 00:37:00 - INFO - [Game 10500] - Temps total écoulé: 0:42:42 - Temps moyen 100 games: 0:24 - % victoire : 0.5301% - Remplissage mémoire 35.4%
+09-Nov-23 00:37:25 - INFO - [Game 10600] - Temps total écoulé: 0:43:7 - Temps moyen 100 games: 0:24 - % victoire : 0.52972% - Remplissage mémoire 35.72%
+09-Nov-23 00:37:50 - INFO - [Game 10700] - Temps total écoulé: 0:43:33 - Temps moyen 100 games: 0:24 - % victoire : 0.52963% - Remplissage mémoire 36.08%
+09-Nov-23 00:38:15 - INFO - [Game 10800] - Temps total écoulé: 0:43:58 - Temps moyen 100 games: 0:24 - % victoire : 0.52963% - Remplissage mémoire 36.43%
+09-Nov-23 00:38:40 - INFO - [Game 10900] - Temps total écoulé: 0:44:23 - Temps moyen 100 games: 0:24 - % victoire : 0.52982% - Remplissage mémoire 36.76%
+09-Nov-23 00:39:05 - INFO - [Game 11000] - Temps total écoulé: 0:44:48 - Temps moyen 100 games: 0:24 - % victoire : 0.52982% - Remplissage mémoire 37.08%
+09-Nov-23 00:39:30 - INFO - [Game 11100] - Temps total écoulé: 0:45:13 - Temps moyen 100 games: 0:24 - % victoire : 0.52991% - Remplissage mémoire 37.42%
+09-Nov-23 00:39:56 - INFO - [Game 11200] - Temps total écoulé: 0:45:38 - Temps moyen 100 games: 0:24 - % victoire : 0.53045% - Remplissage mémoire 37.79%
+09-Nov-23 00:40:20 - INFO - [Game 11300] - Temps total écoulé: 0:46:3 - Temps moyen 100 games: 0:24 - % victoire : 0.53115% - Remplissage mémoire 38.12%
+09-Nov-23 00:40:46 - INFO - [Game 11400] - Temps total écoulé: 0:46:28 - Temps moyen 100 games: 0:24 - % victoire : 0.53123% - Remplissage mémoire 38.44%
+09-Nov-23 00:41:11 - INFO - [Game 11500] - Temps total écoulé: 0:46:54 - Temps moyen 100 games: 0:24 - % victoire : 0.53148% - Remplissage mémoire 38.78%
+09-Nov-23 00:41:36 - INFO - [Game 11600] - Temps total écoulé: 0:47:19 - Temps moyen 100 games: 0:24 - % victoire : 0.53147% - Remplissage mémoire 39.12%
+09-Nov-23 00:42:01 - INFO - [Game 11700] - Temps total écoulé: 0:47:44 - Temps moyen 100 games: 0:24 - % victoire : 0.53171% - Remplissage mémoire 39.45%
+09-Nov-23 00:42:27 - INFO - [Game 11800] - Temps total écoulé: 0:48:10 - Temps moyen 100 games: 0:24 - % victoire : 0.53161% - Remplissage mémoire 39.79%
+09-Nov-23 00:42:53 - INFO - [Game 11900] - Temps total écoulé: 0:48:35 - Temps moyen 100 games: 0:24 - % victoire : 0.53176% - Remplissage mémoire 40.16%
+09-Nov-23 00:43:18 - INFO - [Game 12000] - Temps total écoulé: 0:49:0 - Temps moyen 100 games: 0:24 - % victoire : 0.53158% - Remplissage mémoire 40.49%
+09-Nov-23 00:43:43 - INFO - [Game 12100] - Temps total écoulé: 0:49:26 - Temps moyen 100 games: 0:24 - % victoire : 0.53165% - Remplissage mémoire 40.82%
+09-Nov-23 00:44:08 - INFO - [Game 12200] - Temps total écoulé: 0:49:51 - Temps moyen 100 games: 0:24 - % victoire : 0.53172% - Remplissage mémoire 41.13%
+09-Nov-23 00:44:33 - INFO - [Game 12300] - Temps total écoulé: 0:50:16 - Temps moyen 100 games: 0:24 - % victoire : 0.53179% - Remplissage mémoire 41.47%
+09-Nov-23 00:44:59 - INFO - [Game 12400] - Temps total écoulé: 0:50:41 - Temps moyen 100 games: 0:24 - % victoire : 0.53226% - Remplissage mémoire 41.8%
+09-Nov-23 00:45:24 - INFO - [Game 12500] - Temps total écoulé: 0:51:7 - Temps moyen 100 games: 0:24 - % victoire : 0.53224% - Remplissage mémoire 42.13%
+09-Nov-23 00:45:50 - INFO - [Game 12600] - Temps total écoulé: 0:51:32 - Temps moyen 100 games: 0:24 - % victoire : 0.53175% - Remplissage mémoire 42.47%
+09-Nov-23 00:46:15 - INFO - [Game 12700] - Temps total écoulé: 0:51:58 - Temps moyen 100 games: 0:24 - % victoire : 0.53181% - Remplissage mémoire 42.82%
+09-Nov-23 00:46:40 - INFO - [Game 12800] - Temps total écoulé: 0:52:23 - Temps moyen 100 games: 0:24 - % victoire : 0.53164% - Remplissage mémoire 43.14%
+09-Nov-23 00:47:05 - INFO - [Game 12900] - Temps total écoulé: 0:52:48 - Temps moyen 100 games: 0:24 - % victoire : 0.53171% - Remplissage mémoire 43.48%
+09-Nov-23 00:47:31 - INFO - [Game 13000] - Temps total écoulé: 0:53:14 - Temps moyen 100 games: 0:24 - % victoire : 0.53192% - Remplissage mémoire 43.82%
+09-Nov-23 00:47:56 - INFO - [Game 13100] - Temps total écoulé: 0:53:39 - Temps moyen 100 games: 0:24 - % victoire : 0.5313% - Remplissage mémoire 44.15%
+09-Nov-23 00:48:22 - INFO - [Game 13200] - Temps total écoulé: 0:54:5 - Temps moyen 100 games: 0:24 - % victoire : 0.53159% - Remplissage mémoire 44.49%
+09-Nov-23 00:48:47 - INFO - [Game 13300] - Temps total écoulé: 0:54:30 - Temps moyen 100 games: 0:24 - % victoire : 0.53218% - Remplissage mémoire 44.81%
+09-Nov-23 00:49:12 - INFO - [Game 13400] - Temps total écoulé: 0:54:55 - Temps moyen 100 games: 0:24 - % victoire : 0.53164% - Remplissage mémoire 45.13%
+09-Nov-23 00:49:38 - INFO - [Game 13500] - Temps total écoulé: 0:55:21 - Temps moyen 100 games: 0:24 - % victoire : 0.53267% - Remplissage mémoire 45.49%
+09-Nov-23 00:50:03 - INFO - [Game 13600] - Temps total écoulé: 0:55:46 - Temps moyen 100 games: 0:24 - % victoire : 0.53272% - Remplissage mémoire 45.83%
+09-Nov-23 00:50:29 - INFO - [Game 13700] - Temps total écoulé: 0:56:11 - Temps moyen 100 games: 0:24 - % victoire : 0.53336% - Remplissage mémoire 46.17%
+09-Nov-23 00:50:55 - INFO - [Game 13800] - Temps total écoulé: 0:56:38 - Temps moyen 100 games: 0:24 - % victoire : 0.53283% - Remplissage mémoire 46.52%
+09-Nov-23 00:51:20 - INFO - [Game 13900] - Temps total écoulé: 0:57:3 - Temps moyen 100 games: 0:24 - % victoire : 0.53302% - Remplissage mémoire 46.86%
+09-Nov-23 00:51:46 - INFO - [Game 14000] - Temps total écoulé: 0:57:29 - Temps moyen 100 games: 0:24 - % victoire : 0.53314% - Remplissage mémoire 47.2%
+09-Nov-23 00:52:11 - INFO - [Game 14100] - Temps total écoulé: 0:57:54 - Temps moyen 100 games: 0:24 - % victoire : 0.53298% - Remplissage mémoire 47.54%
+09-Nov-23 00:52:36 - INFO - [Game 14200] - Temps total écoulé: 0:58:19 - Temps moyen 100 games: 0:24 - % victoire : 0.53289% - Remplissage mémoire 47.88%
+09-Nov-23 00:53:02 - INFO - [Game 14300] - Temps total écoulé: 0:58:45 - Temps moyen 100 games: 0:24 - % victoire : 0.53322% - Remplissage mémoire 48.2%
+09-Nov-23 00:53:27 - INFO - [Game 14400] - Temps total écoulé: 0:59:10 - Temps moyen 100 games: 0:24 - % victoire : 0.53319% - Remplissage mémoire 48.52%
+09-Nov-23 00:53:52 - INFO - [Game 14500] - Temps total écoulé: 0:59:35 - Temps moyen 100 games: 0:24 - % victoire : 0.53303% - Remplissage mémoire 48.86%
+09-Nov-23 00:54:18 - INFO - [Game 14600] - Temps total écoulé: 1:0:1 - Temps moyen 100 games: 0:24 - % victoire : 0.53281% - Remplissage mémoire 49.21%
+09-Nov-23 00:54:43 - INFO - [Game 14700] - Temps total écoulé: 1:0:26 - Temps moyen 100 games: 0:24 - % victoire : 0.53347% - Remplissage mémoire 49.53%
+09-Nov-23 00:55:08 - INFO - [Game 14800] - Temps total écoulé: 1:0:51 - Temps moyen 100 games: 0:24 - % victoire : 0.53304% - Remplissage mémoire 49.87%
+09-Nov-23 00:55:34 - INFO - [Game 14900] - Temps total écoulé: 1:1:17 - Temps moyen 100 games: 0:24 - % victoire : 0.53349% - Remplissage mémoire 50.21%
+09-Nov-23 00:55:59 - INFO - [Game 15000] - Temps total écoulé: 1:1:42 - Temps moyen 100 games: 0:24 - % victoire : 0.53387% - Remplissage mémoire 50.54%
+09-Nov-23 10:23:52 - WARNING - Start training : 15000 games
+09-Nov-23 10:24:09 - INFO - [Game 100] - Temps total écoulé: 0:0:17 - Temps moyen 100 games: 0:17 - % victoire : 0.44% - Remplissage mémoire 0.36%
+09-Nov-23 10:25:09 - WARNING - Start training : 15000 games
+09-Nov-23 10:25:26 - INFO - [Game 100] - Temps total écoulé: 0:0:16 - Temps moyen 100 games: 0:16 - % victoire : 0.51% - Remplissage mémoire 0.34%
+09-Nov-23 10:25:50 - INFO - [Game 200] - Temps total écoulé: 0:0:40 - Temps moyen 100 games: 0:20 - % victoire : 0.465% - Remplissage mémoire 0.67%
+09-Nov-23 10:26:14 - INFO - [Game 300] - Temps total écoulé: 0:1:5 - Temps moyen 100 games: 0:21 - % victoire : 0.48667% - Remplissage mémoire 1.01%
+09-Nov-23 10:30:25 - WARNING - Start training : 25000 games
+09-Nov-23 10:30:43 - INFO - [Game 100] - Temps total écoulé: 0:0:17 - Temps moyen 100 games: 0:17 - % victoire : 0.51% - Remplissage mémoire 0.33%
+09-Nov-23 10:31:07 - INFO - [Game 200] - Temps total écoulé: 0:0:42 - Temps moyen 100 games: 0:20 - % victoire : 0.515% - Remplissage mémoire 0.66%
+09-Nov-23 10:31:32 - INFO - [Game 300] - Temps total écoulé: 0:1:6 - Temps moyen 100 games: 0:22 - % victoire : 0.50667% - Remplissage mémoire 0.99%
+09-Nov-23 10:31:56 - INFO - [Game 400] - Temps total écoulé: 0:1:31 - Temps moyen 100 games: 0:22 - % victoire : 0.525% - Remplissage mémoire 1.33%
+09-Nov-23 10:32:21 - INFO - [Game 500] - Temps total écoulé: 0:1:55 - Temps moyen 100 games: 0:23 - % victoire : 0.518% - Remplissage mémoire 1.68%
+09-Nov-23 10:32:46 - INFO - [Game 600] - Temps total écoulé: 0:2:20 - Temps moyen 100 games: 0:23 - % victoire : 0.51333% - Remplissage mémoire 2.03%
+09-Nov-23 10:33:11 - INFO - [Game 700] - Temps total écoulé: 0:2:46 - Temps moyen 100 games: 0:23 - % victoire : 0.50429% - Remplissage mémoire 2.37%
+09-Nov-23 10:33:37 - INFO - [Game 800] - Temps total écoulé: 0:3:11 - Temps moyen 100 games: 0:23 - % victoire : 0.51% - Remplissage mémoire 2.71%
+09-Nov-23 10:34:02 - INFO - [Game 900] - Temps total écoulé: 0:3:36 - Temps moyen 100 games: 0:23 - % victoire : 0.50778% - Remplissage mémoire 3.05%
+09-Nov-23 10:34:34 - INFO - [Game 1000] - Temps total écoulé: 0:4:9 - Temps moyen 100 games: 0:24 - % victoire : 0.506% - Remplissage mémoire 3.4%
+09-Nov-23 10:35:01 - INFO - [Game 1100] - Temps total écoulé: 0:4:35 - Temps moyen 100 games: 0:24 - % victoire : 0.50364% - Remplissage mémoire 3.73%
+09-Nov-23 10:35:25 - INFO - [Game 1200] - Temps total écoulé: 0:5:0 - Temps moyen 100 games: 0:24 - % victoire : 0.50917% - Remplissage mémoire 4.06%
+09-Nov-23 10:35:51 - INFO - [Game 1300] - Temps total écoulé: 0:5:25 - Temps moyen 100 games: 0:24 - % victoire : 0.50769% - Remplissage mémoire 4.39%
+09-Nov-23 10:36:16 - INFO - [Game 1400] - Temps total écoulé: 0:5:50 - Temps moyen 100 games: 0:24 - % victoire : 0.50357% - Remplissage mémoire 4.72%
+09-Nov-23 10:36:41 - INFO - [Game 1500] - Temps total écoulé: 0:6:15 - Temps moyen 100 games: 0:24 - % victoire : 0.50333% - Remplissage mémoire 5.08%
+09-Nov-23 10:37:06 - INFO - [Game 1600] - Temps total écoulé: 0:6:40 - Temps moyen 100 games: 0:24 - % victoire : 0.505% - Remplissage mémoire 5.43%
+09-Nov-23 10:37:31 - INFO - [Game 1700] - Temps total écoulé: 0:7:5 - Temps moyen 100 games: 0:24 - % victoire : 0.50824% - Remplissage mémoire 5.76%
+09-Nov-23 10:37:56 - INFO - [Game 1800] - Temps total écoulé: 0:7:30 - Temps moyen 100 games: 0:24 - % victoire : 0.50778% - Remplissage mémoire 6.11%
+09-Nov-23 10:38:20 - INFO - [Game 1900] - Temps total écoulé: 0:7:55 - Temps moyen 100 games: 0:24 - % victoire : 0.50684% - Remplissage mémoire 6.46%
+09-Nov-23 10:38:45 - INFO - [Game 2000] - Temps total écoulé: 0:8:19 - Temps moyen 100 games: 0:24 - % victoire : 0.512% - Remplissage mémoire 6.8%
+09-Nov-23 10:39:09 - INFO - [Game 2100] - Temps total écoulé: 0:8:44 - Temps moyen 100 games: 0:24 - % victoire : 0.50857% - Remplissage mémoire 7.14%
+09-Nov-23 10:39:34 - INFO - [Game 2200] - Temps total écoulé: 0:9:8 - Temps moyen 100 games: 0:24 - % victoire : 0.50909% - Remplissage mémoire 7.46%
+09-Nov-23 10:39:59 - INFO - [Game 2300] - Temps total écoulé: 0:9:33 - Temps moyen 100 games: 0:24 - % victoire : 0.5113% - Remplissage mémoire 7.82%
+09-Nov-23 10:40:24 - INFO - [Game 2400] - Temps total écoulé: 0:9:58 - Temps moyen 100 games: 0:24 - % victoire : 0.51292% - Remplissage mémoire 8.14%
+09-Nov-23 10:40:49 - INFO - [Game 2500] - Temps total écoulé: 0:10:23 - Temps moyen 100 games: 0:24 - % victoire : 0.5148% - Remplissage mémoire 8.49%
+09-Nov-23 10:41:13 - INFO - [Game 2600] - Temps total écoulé: 0:10:48 - Temps moyen 100 games: 0:24 - % victoire : 0.51654% - Remplissage mémoire 8.83%
+09-Nov-23 10:41:38 - INFO - [Game 2700] - Temps total écoulé: 0:11:12 - Temps moyen 100 games: 0:24 - % victoire : 0.51889% - Remplissage mémoire 9.16%
+09-Nov-23 10:42:03 - INFO - [Game 2800] - Temps total écoulé: 0:11:38 - Temps moyen 100 games: 0:24 - % victoire : 0.5225% - Remplissage mémoire 9.5%
+09-Nov-23 10:42:28 - INFO - [Game 2900] - Temps total écoulé: 0:12:2 - Temps moyen 100 games: 0:24 - % victoire : 0.52552% - Remplissage mémoire 9.84%
+09-Nov-23 10:42:53 - INFO - [Game 3000] - Temps total écoulé: 0:12:27 - Temps moyen 100 games: 0:24 - % victoire : 0.526% - Remplissage mémoire 10.17%
+09-Nov-23 10:43:18 - INFO - [Game 3100] - Temps total écoulé: 0:12:52 - Temps moyen 100 games: 0:24 - % victoire : 0.52516% - Remplissage mémoire 10.5%
+09-Nov-23 10:43:42 - INFO - [Game 3200] - Temps total écoulé: 0:13:17 - Temps moyen 100 games: 0:24 - % victoire : 0.52531% - Remplissage mémoire 10.83%
+09-Nov-23 10:44:07 - INFO - [Game 3300] - Temps total écoulé: 0:13:42 - Temps moyen 100 games: 0:24 - % victoire : 0.52576% - Remplissage mémoire 11.16%
+09-Nov-23 10:44:32 - INFO - [Game 3400] - Temps total écoulé: 0:14:6 - Temps moyen 100 games: 0:24 - % victoire : 0.52853% - Remplissage mémoire 11.51%
+09-Nov-23 10:44:57 - INFO - [Game 3500] - Temps total écoulé: 0:14:31 - Temps moyen 100 games: 0:24 - % victoire : 0.53229% - Remplissage mémoire 11.85%
+09-Nov-23 10:45:21 - INFO - [Game 3600] - Temps total écoulé: 0:14:56 - Temps moyen 100 games: 0:24 - % victoire : 0.53472% - Remplissage mémoire 12.19%
+09-Nov-23 10:45:46 - INFO - [Game 3700] - Temps total écoulé: 0:15:21 - Temps moyen 100 games: 0:24 - % victoire : 0.53405% - Remplissage mémoire 12.53%
+09-Nov-23 10:46:11 - INFO - [Game 3800] - Temps total écoulé: 0:15:45 - Temps moyen 100 games: 0:24 - % victoire : 0.53605% - Remplissage mémoire 12.87%
+09-Nov-23 10:46:36 - INFO - [Game 3900] - Temps total écoulé: 0:16:10 - Temps moyen 100 games: 0:24 - % victoire : 0.53667% - Remplissage mémoire 13.21%
+09-Nov-23 10:47:01 - INFO - [Game 4000] - Temps total écoulé: 0:16:35 - Temps moyen 100 games: 0:24 - % victoire : 0.53725% - Remplissage mémoire 13.56%
+09-Nov-23 10:47:25 - INFO - [Game 4100] - Temps total écoulé: 0:16:59 - Temps moyen 100 games: 0:24 - % victoire : 0.53902% - Remplissage mémoire 13.9%
+09-Nov-23 10:47:50 - INFO - [Game 4200] - Temps total écoulé: 0:17:24 - Temps moyen 100 games: 0:24 - % victoire : 0.53881% - Remplissage mémoire 14.24%
+09-Nov-23 10:48:14 - INFO - [Game 4300] - Temps total écoulé: 0:17:49 - Temps moyen 100 games: 0:24 - % victoire : 0.53674% - Remplissage mémoire 14.57%
+09-Nov-23 10:48:39 - INFO - [Game 4400] - Temps total écoulé: 0:18:13 - Temps moyen 100 games: 0:24 - % victoire : 0.53523% - Remplissage mémoire 14.89%
+09-Nov-23 10:49:04 - INFO - [Game 4500] - Temps total écoulé: 0:18:38 - Temps moyen 100 games: 0:24 - % victoire : 0.53489% - Remplissage mémoire 15.25%
+09-Nov-23 10:49:29 - INFO - [Game 4600] - Temps total écoulé: 0:19:4 - Temps moyen 100 games: 0:24 - % victoire : 0.53565% - Remplissage mémoire 15.58%
+09-Nov-23 10:49:54 - INFO - [Game 4700] - Temps total écoulé: 0:19:28 - Temps moyen 100 games: 0:24 - % victoire : 0.53787% - Remplissage mémoire 15.93%
+09-Nov-23 10:50:18 - INFO - [Game 4800] - Temps total écoulé: 0:19:52 - Temps moyen 100 games: 0:24 - % victoire : 0.53729% - Remplissage mémoire 16.28%
+09-Nov-23 10:50:43 - INFO - [Game 4900] - Temps total écoulé: 0:20:17 - Temps moyen 100 games: 0:24 - % victoire : 0.53918% - Remplissage mémoire 16.61%
+09-Nov-23 10:51:07 - INFO - [Game 5000] - Temps total écoulé: 0:20:42 - Temps moyen 100 games: 0:24 - % victoire : 0.5386% - Remplissage mémoire 16.96%
+09-Nov-23 10:51:32 - INFO - [Game 5100] - Temps total écoulé: 0:21:7 - Temps moyen 100 games: 0:24 - % victoire : 0.53922% - Remplissage mémoire 17.31%
+09-Nov-23 10:51:57 - INFO - [Game 5200] - Temps total écoulé: 0:21:31 - Temps moyen 100 games: 0:24 - % victoire : 0.53808% - Remplissage mémoire 17.64%
+09-Nov-23 10:52:22 - INFO - [Game 5300] - Temps total écoulé: 0:21:56 - Temps moyen 100 games: 0:24 - % victoire : 0.53755% - Remplissage mémoire 17.97%
+09-Nov-23 10:52:47 - INFO - [Game 5400] - Temps total écoulé: 0:22:21 - Temps moyen 100 games: 0:24 - % victoire : 0.53778% - Remplissage mémoire 18.32%
+09-Nov-23 10:53:11 - INFO - [Game 5500] - Temps total écoulé: 0:22:46 - Temps moyen 100 games: 0:24 - % victoire : 0.53891% - Remplissage mémoire 18.64%
+09-Nov-23 10:53:36 - INFO - [Game 5600] - Temps total écoulé: 0:23:10 - Temps moyen 100 games: 0:24 - % victoire : 0.53911% - Remplissage mémoire 18.98%
+09-Nov-23 10:54:01 - INFO - [Game 5700] - Temps total écoulé: 0:23:35 - Temps moyen 100 games: 0:24 - % victoire : 0.5386% - Remplissage mémoire 19.31%
+09-Nov-23 10:54:26 - INFO - [Game 5800] - Temps total écoulé: 0:24:0 - Temps moyen 100 games: 0:24 - % victoire : 0.53741% - Remplissage mémoire 19.64%
+09-Nov-23 10:54:51 - INFO - [Game 5900] - Temps total écoulé: 0:24:25 - Temps moyen 100 games: 0:24 - % victoire : 0.53814% - Remplissage mémoire 19.97%
+09-Nov-23 10:55:15 - INFO - [Game 6000] - Temps total écoulé: 0:24:50 - Temps moyen 100 games: 0:24 - % victoire : 0.53917% - Remplissage mémoire 20.3%
+09-Nov-23 10:55:40 - INFO - [Game 6100] - Temps total écoulé: 0:25:14 - Temps moyen 100 games: 0:24 - % victoire : 0.53967% - Remplissage mémoire 20.63%
+09-Nov-23 10:56:04 - INFO - [Game 6200] - Temps total écoulé: 0:25:39 - Temps moyen 100 games: 0:24 - % victoire : 0.54113% - Remplissage mémoire 20.97%
+09-Nov-23 10:56:29 - INFO - [Game 6300] - Temps total écoulé: 0:26:3 - Temps moyen 100 games: 0:24 - % victoire : 0.54111% - Remplissage mémoire 21.32%
+09-Nov-23 10:56:53 - INFO - [Game 6400] - Temps total écoulé: 0:26:27 - Temps moyen 100 games: 0:24 - % victoire : 0.54172% - Remplissage mémoire 21.67%
+09-Nov-23 10:57:18 - INFO - [Game 6500] - Temps total écoulé: 0:26:52 - Temps moyen 100 games: 0:24 - % victoire : 0.54215% - Remplissage mémoire 22.01%
+09-Nov-23 10:57:42 - INFO - [Game 6600] - Temps total écoulé: 0:27:17 - Temps moyen 100 games: 0:24 - % victoire : 0.54227% - Remplissage mémoire 22.33%
+09-Nov-23 10:58:07 - INFO - [Game 6700] - Temps total écoulé: 0:27:42 - Temps moyen 100 games: 0:24 - % victoire : 0.54254% - Remplissage mémoire 22.66%
+09-Nov-23 10:58:32 - INFO - [Game 6800] - Temps total écoulé: 0:28:6 - Temps moyen 100 games: 0:24 - % victoire : 0.54191% - Remplissage mémoire 22.98%
+09-Nov-23 10:58:57 - INFO - [Game 6900] - Temps total écoulé: 0:28:31 - Temps moyen 100 games: 0:24 - % victoire : 0.54174% - Remplissage mémoire 23.3%
+09-Nov-23 10:59:22 - INFO - [Game 7000] - Temps total écoulé: 0:28:56 - Temps moyen 100 games: 0:24 - % victoire : 0.54257% - Remplissage mémoire 23.63%
+09-Nov-23 10:59:46 - INFO - [Game 7100] - Temps total écoulé: 0:29:20 - Temps moyen 100 games: 0:24 - % victoire : 0.54155% - Remplissage mémoire 23.96%
+09-Nov-23 11:00:11 - INFO - [Game 7200] - Temps total écoulé: 0:29:45 - Temps moyen 100 games: 0:24 - % victoire : 0.54097% - Remplissage mémoire 24.31%
+09-Nov-23 11:00:36 - INFO - [Game 7300] - Temps total écoulé: 0:30:10 - Temps moyen 100 games: 0:24 - % victoire : 0.5411% - Remplissage mémoire 24.64%
+09-Nov-23 11:01:01 - INFO - [Game 7400] - Temps total écoulé: 0:30:35 - Temps moyen 100 games: 0:24 - % victoire : 0.54122% - Remplissage mémoire 24.98%
+09-Nov-23 11:01:26 - INFO - [Game 7500] - Temps total écoulé: 0:31:0 - Temps moyen 100 games: 0:24 - % victoire : 0.542% - Remplissage mémoire 25.3%
+09-Nov-23 11:01:50 - INFO - [Game 7600] - Temps total écoulé: 0:31:25 - Temps moyen 100 games: 0:24 - % victoire : 0.54145% - Remplissage mémoire 25.62%
+09-Nov-23 11:02:15 - INFO - [Game 7700] - Temps total écoulé: 0:31:50 - Temps moyen 100 games: 0:24 - % victoire : 0.54143% - Remplissage mémoire 25.96%
+09-Nov-23 11:02:40 - INFO - [Game 7800] - Temps total écoulé: 0:32:15 - Temps moyen 100 games: 0:24 - % victoire : 0.54167% - Remplissage mémoire 26.31%
+09-Nov-23 11:03:06 - INFO - [Game 7900] - Temps total écoulé: 0:32:40 - Temps moyen 100 games: 0:24 - % victoire : 0.54114% - Remplissage mémoire 26.65%
+09-Nov-23 11:03:31 - INFO - [Game 8000] - Temps total écoulé: 0:33:5 - Temps moyen 100 games: 0:24 - % victoire : 0.54125% - Remplissage mémoire 26.99%
+09-Nov-23 11:03:56 - INFO - [Game 8100] - Temps total écoulé: 0:33:30 - Temps moyen 100 games: 0:24 - % victoire : 0.54148% - Remplissage mémoire 27.33%
+09-Nov-23 11:04:20 - INFO - [Game 8200] - Temps total écoulé: 0:33:55 - Temps moyen 100 games: 0:24 - % victoire : 0.5411% - Remplissage mémoire 27.66%
+09-Nov-23 11:04:45 - INFO - [Game 8300] - Temps total écoulé: 0:34:20 - Temps moyen 100 games: 0:24 - % victoire : 0.5406% - Remplissage mémoire 28.0%
+09-Nov-23 11:05:10 - INFO - [Game 8400] - Temps total écoulé: 0:34:44 - Temps moyen 100 games: 0:24 - % victoire : 0.54036% - Remplissage mémoire 28.32%
+09-Nov-23 11:05:35 - INFO - [Game 8500] - Temps total écoulé: 0:35:10 - Temps moyen 100 games: 0:24 - % victoire : 0.54071% - Remplissage mémoire 28.66%
+09-Nov-23 11:06:00 - INFO - [Game 8600] - Temps total écoulé: 0:35:35 - Temps moyen 100 games: 0:24 - % victoire : 0.54105% - Remplissage mémoire 29.0%
+09-Nov-23 11:06:25 - INFO - [Game 8700] - Temps total écoulé: 0:35:59 - Temps moyen 100 games: 0:24 - % victoire : 0.54115% - Remplissage mémoire 29.34%
+09-Nov-23 11:06:50 - INFO - [Game 8800] - Temps total écoulé: 0:36:24 - Temps moyen 100 games: 0:24 - % victoire : 0.5417% - Remplissage mémoire 29.67%
+09-Nov-23 11:07:15 - INFO - [Game 8900] - Temps total écoulé: 0:36:49 - Temps moyen 100 games: 0:24 - % victoire : 0.54101% - Remplissage mémoire 30.0%
+09-Nov-23 11:07:40 - INFO - [Game 9000] - Temps total écoulé: 0:37:14 - Temps moyen 100 games: 0:24 - % victoire : 0.54156% - Remplissage mémoire 30.33%
+09-Nov-23 11:08:05 - INFO - [Game 9100] - Temps total écoulé: 0:37:40 - Temps moyen 100 games: 0:24 - % victoire : 0.54143% - Remplissage mémoire 30.65%
+09-Nov-23 11:08:31 - INFO - [Game 9200] - Temps total écoulé: 0:38:5 - Temps moyen 100 games: 0:24 - % victoire : 0.54087% - Remplissage mémoire 30.99%
+09-Nov-23 11:08:56 - INFO - [Game 9300] - Temps total écoulé: 0:38:31 - Temps moyen 100 games: 0:24 - % victoire : 0.54086% - Remplissage mémoire 31.32%
+09-Nov-23 11:09:22 - INFO - [Game 9400] - Temps total écoulé: 0:38:56 - Temps moyen 100 games: 0:24 - % victoire : 0.54043% - Remplissage mémoire 31.67%
+09-Nov-23 11:09:47 - INFO - [Game 9500] - Temps total écoulé: 0:39:21 - Temps moyen 100 games: 0:24 - % victoire : 0.54042% - Remplissage mémoire 31.98%
+09-Nov-23 11:10:12 - INFO - [Game 9600] - Temps total écoulé: 0:39:47 - Temps moyen 100 games: 0:24 - % victoire : 0.54042% - Remplissage mémoire 32.31%
+09-Nov-23 11:10:38 - INFO - [Game 9700] - Temps total écoulé: 0:40:12 - Temps moyen 100 games: 0:24 - % victoire : 0.54093% - Remplissage mémoire 32.66%
+09-Nov-23 11:11:04 - INFO - [Game 9800] - Temps total écoulé: 0:40:38 - Temps moyen 100 games: 0:24 - % victoire : 0.54112% - Remplissage mémoire 33.0%
+09-Nov-23 11:11:29 - INFO - [Game 9900] - Temps total écoulé: 0:41:4 - Temps moyen 100 games: 0:24 - % victoire : 0.54091% - Remplissage mémoire 33.33%
+09-Nov-23 11:11:55 - INFO - [Game 10000] - Temps total écoulé: 0:41:29 - Temps moyen 100 games: 0:24 - % victoire : 0.541% - Remplissage mémoire 33.67%
+09-Nov-23 11:12:21 - INFO - [Game 10100] - Temps total écoulé: 0:41:55 - Temps moyen 100 games: 0:24 - % victoire : 0.54099% - Remplissage mémoire 34.01%
+09-Nov-23 11:12:46 - INFO - [Game 10200] - Temps total écoulé: 0:42:20 - Temps moyen 100 games: 0:24 - % victoire : 0.54137% - Remplissage mémoire 34.34%
+09-Nov-23 11:13:11 - INFO - [Game 10300] - Temps total écoulé: 0:42:46 - Temps moyen 100 games: 0:24 - % victoire : 0.54155% - Remplissage mémoire 34.68%
+09-Nov-23 11:13:37 - INFO - [Game 10400] - Temps total écoulé: 0:43:11 - Temps moyen 100 games: 0:24 - % victoire : 0.54154% - Remplissage mémoire 35.01%
+09-Nov-23 11:14:02 - INFO - [Game 10500] - Temps total écoulé: 0:43:36 - Temps moyen 100 games: 0:24 - % victoire : 0.54095% - Remplissage mémoire 35.33%
+09-Nov-23 11:14:28 - INFO - [Game 10600] - Temps total écoulé: 0:44:2 - Temps moyen 100 games: 0:24 - % victoire : 0.54142% - Remplissage mémoire 35.68%
+09-Nov-23 11:14:53 - INFO - [Game 10700] - Temps total écoulé: 0:44:27 - Temps moyen 100 games: 0:24 - % victoire : 0.54084% - Remplissage mémoire 36.0%
+09-Nov-23 11:15:19 - INFO - [Game 10800] - Temps total écoulé: 0:44:53 - Temps moyen 100 games: 0:24 - % victoire : 0.54102% - Remplissage mémoire 36.33%
+09-Nov-23 11:15:44 - INFO - [Game 10900] - Temps total écoulé: 0:45:19 - Temps moyen 100 games: 0:24 - % victoire : 0.54147% - Remplissage mémoire 36.69%
+09-Nov-23 11:16:10 - INFO - [Game 11000] - Temps total écoulé: 0:45:44 - Temps moyen 100 games: 0:24 - % victoire : 0.542% - Remplissage mémoire 37.03%
+09-Nov-23 11:16:36 - INFO - [Game 11100] - Temps total écoulé: 0:46:10 - Temps moyen 100 games: 0:24 - % victoire : 0.54297% - Remplissage mémoire 37.38%
+09-Nov-23 11:17:02 - INFO - [Game 11200] - Temps total écoulé: 0:46:36 - Temps moyen 100 games: 0:24 - % victoire : 0.54357% - Remplissage mémoire 37.73%
+09-Nov-23 11:17:28 - INFO - [Game 11300] - Temps total écoulé: 0:47:2 - Temps moyen 100 games: 0:24 - % victoire : 0.54398% - Remplissage mémoire 38.06%
+09-Nov-23 11:17:54 - INFO - [Game 11400] - Temps total écoulé: 0:47:28 - Temps moyen 100 games: 0:24 - % victoire : 0.54456% - Remplissage mémoire 38.4%
+09-Nov-23 11:18:19 - INFO - [Game 11500] - Temps total écoulé: 0:47:53 - Temps moyen 100 games: 0:24 - % victoire : 0.54504% - Remplissage mémoire 38.73%
+09-Nov-23 11:18:44 - INFO - [Game 11600] - Temps total écoulé: 0:48:18 - Temps moyen 100 games: 0:24 - % victoire : 0.545% - Remplissage mémoire 39.06%
+09-Nov-23 11:19:09 - INFO - [Game 11700] - Temps total écoulé: 0:48:44 - Temps moyen 100 games: 0:24 - % victoire : 0.54513% - Remplissage mémoire 39.41%
+09-Nov-23 11:19:35 - INFO - [Game 11800] - Temps total écoulé: 0:49:10 - Temps moyen 100 games: 0:24 - % victoire : 0.54475% - Remplissage mémoire 39.74%
+09-Nov-23 11:20:01 - INFO - [Game 11900] - Temps total écoulé: 0:49:35 - Temps moyen 100 games: 0:24 - % victoire : 0.54546% - Remplissage mémoire 40.07%
+09-Nov-23 11:20:26 - INFO - [Game 12000] - Temps total écoulé: 0:50:1 - Temps moyen 100 games: 0:24 - % victoire : 0.5455% - Remplissage mémoire 40.39%
+09-Nov-23 11:20:52 - INFO - [Game 12100] - Temps total écoulé: 0:50:26 - Temps moyen 100 games: 0:24 - % victoire : 0.54554% - Remplissage mémoire 40.73%
+09-Nov-23 11:21:18 - INFO - [Game 12200] - Temps total écoulé: 0:50:52 - Temps moyen 100 games: 0:24 - % victoire : 0.54508% - Remplissage mémoire 41.07%
+09-Nov-23 11:21:44 - INFO - [Game 12300] - Temps total écoulé: 0:51:18 - Temps moyen 100 games: 0:24 - % victoire : 0.54545% - Remplissage mémoire 41.42%
+09-Nov-23 11:22:09 - INFO - [Game 12400] - Temps total écoulé: 0:51:43 - Temps moyen 100 games: 0:24 - % victoire : 0.54548% - Remplissage mémoire 41.75%
+09-Nov-23 11:22:34 - INFO - [Game 12500] - Temps total écoulé: 0:52:9 - Temps moyen 100 games: 0:24 - % victoire : 0.54568% - Remplissage mémoire 42.08%
+09-Nov-23 11:23:00 - INFO - [Game 12600] - Temps total écoulé: 0:52:35 - Temps moyen 100 games: 0:24 - % victoire : 0.54603% - Remplissage mémoire 42.42%
+09-Nov-23 11:23:26 - INFO - [Game 12700] - Temps total écoulé: 0:53:0 - Temps moyen 100 games: 0:24 - % victoire : 0.54606% - Remplissage mémoire 42.76%
+09-Nov-23 11:23:51 - INFO - [Game 12800] - Temps total écoulé: 0:53:26 - Temps moyen 100 games: 0:24 - % victoire : 0.54609% - Remplissage mémoire 43.09%
+09-Nov-23 11:24:17 - INFO - [Game 12900] - Temps total écoulé: 0:53:51 - Temps moyen 100 games: 0:24 - % victoire : 0.54628% - Remplissage mémoire 43.43%
+09-Nov-23 11:24:43 - INFO - [Game 13000] - Temps total écoulé: 0:54:18 - Temps moyen 100 games: 0:24 - % victoire : 0.54608% - Remplissage mémoire 43.78%
+09-Nov-23 11:25:09 - INFO - [Game 13100] - Temps total écoulé: 0:54:44 - Temps moyen 100 games: 0:24 - % victoire : 0.54595% - Remplissage mémoire 44.1%
+09-Nov-23 11:25:35 - INFO - [Game 13200] - Temps total écoulé: 0:55:9 - Temps moyen 100 games: 0:24 - % victoire : 0.54576% - Remplissage mémoire 44.43%
+09-Nov-23 11:26:01 - INFO - [Game 13300] - Temps total écoulé: 0:55:35 - Temps moyen 100 games: 0:24 - % victoire : 0.54602% - Remplissage mémoire 44.78%
+09-Nov-23 11:26:26 - INFO - [Game 13400] - Temps total écoulé: 0:56:1 - Temps moyen 100 games: 0:24 - % victoire : 0.54582% - Remplissage mémoire 45.11%
+09-Nov-23 11:26:52 - INFO - [Game 13500] - Temps total écoulé: 0:56:26 - Temps moyen 100 games: 0:24 - % victoire : 0.54541% - Remplissage mémoire 45.43%
+09-Nov-23 11:27:18 - INFO - [Game 13600] - Temps total écoulé: 0:56:52 - Temps moyen 100 games: 0:24 - % victoire : 0.54566% - Remplissage mémoire 45.79%
+09-Nov-23 11:27:44 - INFO - [Game 13700] - Temps total écoulé: 0:57:18 - Temps moyen 100 games: 0:24 - % victoire : 0.54577% - Remplissage mémoire 46.12%
+09-Nov-23 11:28:09 - INFO - [Game 13800] - Temps total écoulé: 0:57:44 - Temps moyen 100 games: 0:24 - % victoire : 0.54638% - Remplissage mémoire 46.47%
+09-Nov-23 11:28:35 - INFO - [Game 13900] - Temps total écoulé: 0:58:9 - Temps moyen 100 games: 0:24 - % victoire : 0.54619% - Remplissage mémoire 46.82%
+09-Nov-23 11:29:01 - INFO - [Game 14000] - Temps total écoulé: 0:58:35 - Temps moyen 100 games: 0:24 - % victoire : 0.54579% - Remplissage mémoire 47.16%
+09-Nov-23 11:29:26 - INFO - [Game 14100] - Temps total écoulé: 0:59:1 - Temps moyen 100 games: 0:24 - % victoire : 0.54652% - Remplissage mémoire 47.51%
+09-Nov-23 11:29:52 - INFO - [Game 14200] - Temps total écoulé: 0:59:26 - Temps moyen 100 games: 0:24 - % victoire : 0.54634% - Remplissage mémoire 47.85%
+09-Nov-23 11:30:18 - INFO - [Game 14300] - Temps total écoulé: 0:59:52 - Temps moyen 100 games: 0:24 - % victoire : 0.5465% - Remplissage mémoire 48.18%
+09-Nov-23 11:30:44 - INFO - [Game 14400] - Temps total écoulé: 1:0:18 - Temps moyen 100 games: 0:24 - % victoire : 0.5466% - Remplissage mémoire 48.52%
+09-Nov-23 11:31:09 - INFO - [Game 14500] - Temps total écoulé: 1:0:44 - Temps moyen 100 games: 0:24 - % victoire : 0.54669% - Remplissage mémoire 48.84%
+09-Nov-23 11:31:35 - INFO - [Game 14600] - Temps total écoulé: 1:1:9 - Temps moyen 100 games: 0:24 - % victoire : 0.54664% - Remplissage mémoire 49.16%
+09-Nov-23 11:32:00 - INFO - [Game 14700] - Temps total écoulé: 1:1:34 - Temps moyen 100 games: 0:24 - % victoire : 0.54653% - Remplissage mémoire 49.51%
+09-Nov-23 11:32:25 - INFO - [Game 14800] - Temps total écoulé: 1:2:0 - Temps moyen 100 games: 0:24 - % victoire : 0.54655% - Remplissage mémoire 49.85%
+09-Nov-23 11:32:51 - INFO - [Game 14900] - Temps total écoulé: 1:2:25 - Temps moyen 100 games: 0:24 - % victoire : 0.54671% - Remplissage mémoire 50.18%
+09-Nov-23 11:33:16 - INFO - [Game 15000] - Temps total écoulé: 1:2:51 - Temps moyen 100 games: 0:24 - % victoire : 0.54727% - Remplissage mémoire 50.52%
+09-Nov-23 11:33:42 - INFO - [Game 15100] - Temps total écoulé: 1:3:16 - Temps moyen 100 games: 0:24 - % victoire : 0.54762% - Remplissage mémoire 50.89%
+09-Nov-23 11:34:08 - INFO - [Game 15200] - Temps total écoulé: 1:3:42 - Temps moyen 100 games: 0:25 - % victoire : 0.54717% - Remplissage mémoire 51.22%
+09-Nov-23 11:34:33 - INFO - [Game 15300] - Temps total écoulé: 1:4:7 - Temps moyen 100 games: 0:25 - % victoire : 0.54739% - Remplissage mémoire 51.54%
+09-Nov-23 11:34:58 - INFO - [Game 15400] - Temps total écoulé: 1:4:33 - Temps moyen 100 games: 0:25 - % victoire : 0.54747% - Remplissage mémoire 51.87%
+09-Nov-23 11:35:24 - INFO - [Game 15500] - Temps total écoulé: 1:4:58 - Temps moyen 100 games: 0:25 - % victoire : 0.54742% - Remplissage mémoire 52.21%
+09-Nov-23 11:35:50 - INFO - [Game 15600] - Temps total écoulé: 1:5:24 - Temps moyen 100 games: 0:25 - % victoire : 0.5475% - Remplissage mémoire 52.54%
+09-Nov-23 11:36:16 - INFO - [Game 15700] - Temps total écoulé: 1:5:50 - Temps moyen 100 games: 0:25 - % victoire : 0.54713% - Remplissage mémoire 52.88%
+09-Nov-23 11:36:41 - INFO - [Game 15800] - Temps total écoulé: 1:6:16 - Temps moyen 100 games: 0:25 - % victoire : 0.54671% - Remplissage mémoire 53.22%
+09-Nov-23 11:37:07 - INFO - [Game 15900] - Temps total écoulé: 1:6:41 - Temps moyen 100 games: 0:25 - % victoire : 0.54597% - Remplissage mémoire 53.54%
+09-Nov-23 11:37:32 - INFO - [Game 16000] - Temps total écoulé: 1:7:7 - Temps moyen 100 games: 0:25 - % victoire : 0.54587% - Remplissage mémoire 53.88%
+09-Nov-23 11:37:58 - INFO - [Game 16100] - Temps total écoulé: 1:7:32 - Temps moyen 100 games: 0:25 - % victoire : 0.54615% - Remplissage mémoire 54.2%
+09-Nov-23 11:38:24 - INFO - [Game 16200] - Temps total écoulé: 1:7:58 - Temps moyen 100 games: 0:25 - % victoire : 0.54574% - Remplissage mémoire 54.54%
+09-Nov-23 11:38:49 - INFO - [Game 16300] - Temps total écoulé: 1:8:24 - Temps moyen 100 games: 0:25 - % victoire : 0.54589% - Remplissage mémoire 54.86%
+09-Nov-23 11:39:15 - INFO - [Game 16400] - Temps total écoulé: 1:8:49 - Temps moyen 100 games: 0:25 - % victoire : 0.54579% - Remplissage mémoire 55.18%
+09-Nov-23 11:39:41 - INFO - [Game 16500] - Temps total écoulé: 1:9:15 - Temps moyen 100 games: 0:25 - % victoire : 0.54576% - Remplissage mémoire 55.52%
+09-Nov-23 11:40:06 - INFO - [Game 16600] - Temps total écoulé: 1:9:41 - Temps moyen 100 games: 0:25 - % victoire : 0.5456% - Remplissage mémoire 55.86%
+09-Nov-23 11:40:32 - INFO - [Game 16700] - Temps total écoulé: 1:10:7 - Temps moyen 100 games: 0:25 - % victoire : 0.54551% - Remplissage mémoire 56.2%
+09-Nov-23 11:40:58 - INFO - [Game 16800] - Temps total écoulé: 1:10:32 - Temps moyen 100 games: 0:25 - % victoire : 0.54554% - Remplissage mémoire 56.54%
+09-Nov-23 11:41:24 - INFO - [Game 16900] - Temps total écoulé: 1:10:58 - Temps moyen 100 games: 0:25 - % victoire : 0.54598% - Remplissage mémoire 56.9%
+09-Nov-23 11:41:49 - INFO - [Game 17000] - Temps total écoulé: 1:11:24 - Temps moyen 100 games: 0:25 - % victoire : 0.546% - Remplissage mémoire 57.23%
+09-Nov-23 11:42:15 - INFO - [Game 17100] - Temps total écoulé: 1:11:49 - Temps moyen 100 games: 0:25 - % victoire : 0.54585% - Remplissage mémoire 57.55%
+09-Nov-23 11:42:42 - INFO - [Game 17200] - Temps total écoulé: 1:12:16 - Temps moyen 100 games: 0:25 - % victoire : 0.54564% - Remplissage mémoire 57.9%
+09-Nov-23 11:43:08 - INFO - [Game 17300] - Temps total écoulé: 1:12:42 - Temps moyen 100 games: 0:25 - % victoire : 0.54538% - Remplissage mémoire 58.25%
+09-Nov-23 11:43:33 - INFO - [Game 17400] - Temps total écoulé: 1:13:8 - Temps moyen 100 games: 0:25 - % victoire : 0.54523% - Remplissage mémoire 58.6%
+09-Nov-23 11:43:59 - INFO - [Game 17500] - Temps total écoulé: 1:13:34 - Temps moyen 100 games: 0:25 - % victoire : 0.5452% - Remplissage mémoire 58.96%
+09-Nov-23 11:44:25 - INFO - [Game 17600] - Temps total écoulé: 1:13:59 - Temps moyen 100 games: 0:25 - % victoire : 0.54489% - Remplissage mémoire 59.29%
+09-Nov-23 11:44:51 - INFO - [Game 17700] - Temps total écoulé: 1:14:25 - Temps moyen 100 games: 0:25 - % victoire : 0.54486% - Remplissage mémoire 59.61%
+09-Nov-23 11:45:17 - INFO - [Game 17800] - Temps total écoulé: 1:14:51 - Temps moyen 100 games: 0:25 - % victoire : 0.54483% - Remplissage mémoire 59.95%
+09-Nov-23 11:45:42 - INFO - [Game 17900] - Temps total écoulé: 1:15:16 - Temps moyen 100 games: 0:25 - % victoire : 0.54475% - Remplissage mémoire 60.31%
+09-Nov-23 11:46:09 - INFO - [Game 18000] - Temps total écoulé: 1:15:43 - Temps moyen 100 games: 0:25 - % victoire : 0.54506% - Remplissage mémoire 60.65%
+09-Nov-23 11:46:35 - INFO - [Game 18100] - Temps total écoulé: 1:16:9 - Temps moyen 100 games: 0:25 - % victoire : 0.54519% - Remplissage mémoire 61.01%
+09-Nov-23 11:47:00 - INFO - [Game 18200] - Temps total écoulé: 1:16:34 - Temps moyen 100 games: 0:25 - % victoire : 0.54533% - Remplissage mémoire 61.33%
+09-Nov-23 11:47:26 - INFO - [Game 18300] - Temps total écoulé: 1:17:1 - Temps moyen 100 games: 0:25 - % victoire : 0.54541% - Remplissage mémoire 61.67%
+09-Nov-23 11:47:52 - INFO - [Game 18400] - Temps total écoulé: 1:17:26 - Temps moyen 100 games: 0:25 - % victoire : 0.5456% - Remplissage mémoire 62.01%
+09-Nov-23 11:48:18 - INFO - [Game 18500] - Temps total écoulé: 1:17:52 - Temps moyen 100 games: 0:25 - % victoire : 0.54557% - Remplissage mémoire 62.36%
+09-Nov-23 11:48:44 - INFO - [Game 18600] - Temps total écoulé: 1:18:18 - Temps moyen 100 games: 0:25 - % victoire : 0.5457% - Remplissage mémoire 62.69%
+09-Nov-23 11:49:10 - INFO - [Game 18700] - Temps total écoulé: 1:18:44 - Temps moyen 100 games: 0:25 - % victoire : 0.54594% - Remplissage mémoire 63.03%
+09-Nov-23 11:49:36 - INFO - [Game 18800] - Temps total écoulé: 1:19:10 - Temps moyen 100 games: 0:25 - % victoire : 0.54596% - Remplissage mémoire 63.36%
+09-Nov-23 11:50:02 - INFO - [Game 18900] - Temps total écoulé: 1:19:36 - Temps moyen 100 games: 0:25 - % victoire : 0.54608% - Remplissage mémoire 63.7%
+09-Nov-23 11:50:27 - INFO - [Game 19000] - Temps total écoulé: 1:20:1 - Temps moyen 100 games: 0:25 - % victoire : 0.54595% - Remplissage mémoire 64.01%
+09-Nov-23 11:50:53 - INFO - [Game 19100] - Temps total écoulé: 1:20:27 - Temps moyen 100 games: 0:25 - % victoire : 0.54607% - Remplissage mémoire 64.36%
+09-Nov-23 11:51:18 - INFO - [Game 19200] - Temps total écoulé: 1:20:53 - Temps moyen 100 games: 0:25 - % victoire : 0.54615% - Remplissage mémoire 64.69%
+09-Nov-23 11:51:44 - INFO - [Game 19300] - Temps total écoulé: 1:21:19 - Temps moyen 100 games: 0:25 - % victoire : 0.54637% - Remplissage mémoire 65.04%
+09-Nov-23 11:52:10 - INFO - [Game 19400] - Temps total écoulé: 1:21:44 - Temps moyen 100 games: 0:25 - % victoire : 0.54629% - Remplissage mémoire 65.38%
+09-Nov-23 11:52:36 - INFO - [Game 19500] - Temps total écoulé: 1:22:10 - Temps moyen 100 games: 0:25 - % victoire : 0.54667% - Remplissage mémoire 65.71%
+09-Nov-23 11:53:01 - INFO - [Game 19600] - Temps total écoulé: 1:22:36 - Temps moyen 100 games: 0:25 - % victoire : 0.54653% - Remplissage mémoire 66.03%
+09-Nov-23 11:53:27 - INFO - [Game 19700] - Temps total écoulé: 1:23:1 - Temps moyen 100 games: 0:25 - % victoire : 0.5467% - Remplissage mémoire 66.36%
+09-Nov-23 11:53:53 - INFO - [Game 19800] - Temps total écoulé: 1:23:27 - Temps moyen 100 games: 0:25 - % victoire : 0.54657% - Remplissage mémoire 66.71%
+09-Nov-23 11:54:19 - INFO - [Game 19900] - Temps total écoulé: 1:23:53 - Temps moyen 100 games: 0:25 - % victoire : 0.54673% - Remplissage mémoire 67.04%
+09-Nov-23 11:54:45 - INFO - [Game 20000] - Temps total écoulé: 1:24:19 - Temps moyen 100 games: 0:25 - % victoire : 0.54645% - Remplissage mémoire 67.36%
+09-Nov-23 11:55:11 - INFO - [Game 20100] - Temps total écoulé: 1:24:45 - Temps moyen 100 games: 0:25 - % victoire : 0.54672% - Remplissage mémoire 67.7%
+09-Nov-23 11:55:37 - INFO - [Game 20200] - Temps total écoulé: 1:25:11 - Temps moyen 100 games: 0:25 - % victoire : 0.54614% - Remplissage mémoire 68.02%
+09-Nov-23 11:56:02 - INFO - [Game 20300] - Temps total écoulé: 1:25:37 - Temps moyen 100 games: 0:25 - % victoire : 0.5465% - Remplissage mémoire 68.36%
+09-Nov-23 11:56:28 - INFO - [Game 20400] - Temps total écoulé: 1:26:3 - Temps moyen 100 games: 0:25 - % victoire : 0.54642% - Remplissage mémoire 68.69%
+09-Nov-23 11:56:54 - INFO - [Game 20500] - Temps total écoulé: 1:26:28 - Temps moyen 100 games: 0:25 - % victoire : 0.54639% - Remplissage mémoire 69.02%
+09-Nov-23 11:57:19 - INFO - [Game 20600] - Temps total écoulé: 1:26:54 - Temps moyen 100 games: 0:25 - % victoire : 0.54655% - Remplissage mémoire 69.35%
+09-Nov-23 11:57:45 - INFO - [Game 20700] - Temps total écoulé: 1:27:19 - Temps moyen 100 games: 0:25 - % victoire : 0.54628% - Remplissage mémoire 69.68%
+09-Nov-23 11:58:11 - INFO - [Game 20800] - Temps total écoulé: 1:27:45 - Temps moyen 100 games: 0:25 - % victoire : 0.54611% - Remplissage mémoire 70.0%
+09-Nov-23 11:58:36 - INFO - [Game 20900] - Temps total écoulé: 1:28:11 - Temps moyen 100 games: 0:25 - % victoire : 0.54584% - Remplissage mémoire 70.32%
+09-Nov-23 11:59:02 - INFO - [Game 21000] - Temps total écoulé: 1:28:36 - Temps moyen 100 games: 0:25 - % victoire : 0.54619% - Remplissage mémoire 70.66%
+09-Nov-23 11:59:28 - INFO - [Game 21100] - Temps total écoulé: 1:29:3 - Temps moyen 100 games: 0:25 - % victoire : 0.54621% - Remplissage mémoire 71.0%
+09-Nov-23 11:59:55 - INFO - [Game 21200] - Temps total écoulé: 1:29:29 - Temps moyen 100 games: 0:25 - % victoire : 0.54575% - Remplissage mémoire 71.32%
+09-Nov-23 12:00:22 - INFO - [Game 21300] - Temps total écoulé: 1:29:56 - Temps moyen 100 games: 0:25 - % victoire : 0.54587% - Remplissage mémoire 71.65%
+09-Nov-23 12:00:48 - INFO - [Game 21400] - Temps total écoulé: 1:30:22 - Temps moyen 100 games: 0:25 - % victoire : 0.54579% - Remplissage mémoire 71.99%
+09-Nov-23 12:01:14 - INFO - [Game 21500] - Temps total écoulé: 1:30:48 - Temps moyen 100 games: 0:25 - % victoire : 0.54521% - Remplissage mémoire 72.3%
+09-Nov-23 12:01:40 - INFO - [Game 21600] - Temps total écoulé: 1:31:14 - Temps moyen 100 games: 0:25 - % victoire : 0.54523% - Remplissage mémoire 72.62%
+09-Nov-23 12:02:06 - INFO - [Game 21700] - Temps total écoulé: 1:31:41 - Temps moyen 100 games: 0:25 - % victoire : 0.54516% - Remplissage mémoire 72.96%
+09-Nov-23 12:02:32 - INFO - [Game 21800] - Temps total écoulé: 1:32:7 - Temps moyen 100 games: 0:25 - % victoire : 0.54541% - Remplissage mémoire 73.3%
+09-Nov-23 12:02:59 - INFO - [Game 21900] - Temps total écoulé: 1:32:33 - Temps moyen 100 games: 0:25 - % victoire : 0.54548% - Remplissage mémoire 73.65%
+09-Nov-23 12:03:25 - INFO - [Game 22000] - Temps total écoulé: 1:33:0 - Temps moyen 100 games: 0:25 - % victoire : 0.54545% - Remplissage mémoire 73.98%
+09-Nov-23 12:03:51 - INFO - [Game 22100] - Temps total écoulé: 1:33:26 - Temps moyen 100 games: 0:25 - % victoire : 0.54538% - Remplissage mémoire 74.31%
+09-Nov-23 12:04:18 - INFO - [Game 22200] - Temps total écoulé: 1:33:53 - Temps moyen 100 games: 0:25 - % victoire : 0.54572% - Remplissage mémoire 74.65%
+09-Nov-23 12:04:44 - INFO - [Game 22300] - Temps total écoulé: 1:34:19 - Temps moyen 100 games: 0:25 - % victoire : 0.54543% - Remplissage mémoire 74.98%
+09-Nov-23 12:05:11 - INFO - [Game 22400] - Temps total écoulé: 1:34:45 - Temps moyen 100 games: 0:25 - % victoire : 0.54513% - Remplissage mémoire 75.32%
+09-Nov-23 12:05:36 - INFO - [Game 22500] - Temps total écoulé: 1:35:10 - Temps moyen 100 games: 0:25 - % victoire : 0.54484% - Remplissage mémoire 75.64%
+09-Nov-23 12:06:02 - INFO - [Game 22600] - Temps total écoulé: 1:35:36 - Temps moyen 100 games: 0:25 - % victoire : 0.54447% - Remplissage mémoire 75.96%
+09-Nov-23 12:06:28 - INFO - [Game 22700] - Temps total écoulé: 1:36:2 - Temps moyen 100 games: 0:25 - % victoire : 0.54458% - Remplissage mémoire 76.29%
+09-Nov-23 12:06:53 - INFO - [Game 22800] - Temps total écoulé: 1:36:28 - Temps moyen 100 games: 0:25 - % victoire : 0.54465% - Remplissage mémoire 76.64%
+09-Nov-23 12:07:19 - INFO - [Game 22900] - Temps total écoulé: 1:36:54 - Temps moyen 100 games: 0:25 - % victoire : 0.54454% - Remplissage mémoire 77.0%
+09-Nov-23 12:07:45 - INFO - [Game 23000] - Temps total écoulé: 1:37:20 - Temps moyen 100 games: 0:25 - % victoire : 0.54474% - Remplissage mémoire 77.33%
+09-Nov-23 12:08:11 - INFO - [Game 23100] - Temps total écoulé: 1:37:45 - Temps moyen 100 games: 0:25 - % victoire : 0.54498% - Remplissage mémoire 77.67%
+09-Nov-23 12:08:37 - INFO - [Game 23200] - Temps total écoulé: 1:38:11 - Temps moyen 100 games: 0:25 - % victoire : 0.54496% - Remplissage mémoire 78.0%
+09-Nov-23 12:09:03 - INFO - [Game 23300] - Temps total écoulé: 1:38:37 - Temps moyen 100 games: 0:25 - % victoire : 0.54481% - Remplissage mémoire 78.31%
+09-Nov-23 12:09:29 - INFO - [Game 23400] - Temps total écoulé: 1:39:3 - Temps moyen 100 games: 0:25 - % victoire : 0.5447% - Remplissage mémoire 78.65%
+09-Nov-23 12:09:54 - INFO - [Game 23500] - Temps total écoulé: 1:39:29 - Temps moyen 100 games: 0:25 - % victoire : 0.54481% - Remplissage mémoire 78.98%
+09-Nov-23 12:10:20 - INFO - [Game 23600] - Temps total écoulé: 1:39:54 - Temps moyen 100 games: 0:25 - % victoire : 0.54496% - Remplissage mémoire 79.32%
+09-Nov-23 12:10:46 - INFO - [Game 23700] - Temps total écoulé: 1:40:21 - Temps moyen 100 games: 0:25 - % victoire : 0.54489% - Remplissage mémoire 79.65%
+09-Nov-23 12:11:12 - INFO - [Game 23800] - Temps total écoulé: 1:40:46 - Temps moyen 100 games: 0:25 - % victoire : 0.54487% - Remplissage mémoire 79.97%
+09-Nov-23 12:11:37 - INFO - [Game 23900] - Temps total écoulé: 1:41:11 - Temps moyen 100 games: 0:25 - % victoire : 0.5449% - Remplissage mémoire 80.29%
+09-Nov-23 12:12:02 - INFO - [Game 24000] - Temps total écoulé: 1:41:36 - Temps moyen 100 games: 0:25 - % victoire : 0.54512% - Remplissage mémoire 80.64%
+09-Nov-23 12:12:28 - INFO - [Game 24100] - Temps total écoulé: 1:42:2 - Temps moyen 100 games: 0:25 - % victoire : 0.54568% - Remplissage mémoire 80.99%
+09-Nov-23 12:12:53 - INFO - [Game 24200] - Temps total écoulé: 1:42:27 - Temps moyen 100 games: 0:25 - % victoire : 0.54537% - Remplissage mémoire 81.32%
+09-Nov-23 12:13:19 - INFO - [Game 24300] - Temps total écoulé: 1:42:53 - Temps moyen 100 games: 0:25 - % victoire : 0.5456% - Remplissage mémoire 81.64%
+09-Nov-23 12:13:45 - INFO - [Game 24400] - Temps total écoulé: 1:43:19 - Temps moyen 100 games: 0:25 - % victoire : 0.54561% - Remplissage mémoire 81.98%
+09-Nov-23 12:14:10 - INFO - [Game 24500] - Temps total écoulé: 1:43:45 - Temps moyen 100 games: 0:25 - % victoire : 0.54592% - Remplissage mémoire 82.32%
+09-Nov-23 12:14:38 - INFO - [Game 24600] - Temps total écoulé: 1:44:12 - Temps moyen 100 games: 0:25 - % victoire : 0.54569% - Remplissage mémoire 82.67%
+09-Nov-23 12:15:04 - INFO - [Game 24700] - Temps total écoulé: 1:44:38 - Temps moyen 100 games: 0:25 - % victoire : 0.54575% - Remplissage mémoire 83.02%
+09-Nov-23 12:15:30 - INFO - [Game 24800] - Temps total écoulé: 1:45:4 - Temps moyen 100 games: 0:25 - % victoire : 0.54589% - Remplissage mémoire 83.36%
+09-Nov-23 12:15:56 - INFO - [Game 24900] - Temps total écoulé: 1:45:30 - Temps moyen 100 games: 0:25 - % victoire : 0.54582% - Remplissage mémoire 83.71%
+09-Nov-23 12:16:21 - INFO - [Game 25000] - Temps total écoulé: 1:45:55 - Temps moyen 100 games: 0:25 - % victoire : 0.54588% - Remplissage mémoire 84.04%
+09-Nov-23 12:28:31 - WARNING - Start training : 25000 games
+09-Nov-23 12:28:49 - INFO - [Game 100] - Temps total écoulé: 0:0:17 - Temps moyen 100 games: 0:17 - % victoire : 0.47% - Remplissage mémoire 0.34%
+09-Nov-23 12:29:13 - INFO - [Game 200] - Temps total écoulé: 0:0:41 - Temps moyen 100 games: 0:20 - % victoire : 0.485% - Remplissage mémoire 0.67%
+09-Nov-23 12:31:31 - WARNING - Start training : 25000 games
+09-Nov-23 12:31:57 - INFO - [Game 100] - Temps total écoulé: 0:0:26 - Temps moyen 100 games: 0:26 - % victoire Glob : 0.46% - % victoire 100 last : 0.46% - Remplissage mémoire 0.35%
+09-Nov-23 12:33:20 - WARNING - Start training : 25000 games
+09-Nov-23 12:33:48 - INFO - [Game 100] - Temps total écoulé: 0:0:27 - Temps moyen 100 games: 0:27 - % victoire _Global_ 0.51% _100 last_ 0.51% - Remplissage mémoire 0.33%
+09-Nov-23 12:34:24 - INFO - [Game 200] - Temps total écoulé: 0:1:3 - Temps moyen 100 games: 0:31 - % victoire _Global_ 0.44% _100 last_ 0.44% - Remplissage mémoire 0.69%
+09-Nov-23 12:35:01 - INFO - [Game 300] - Temps total écoulé: 0:1:40 - Temps moyen 100 games: 0:33 - % victoire _Global_ 0.43667% _100 last_ 0.43667% - Remplissage mémoire 1.01%
+09-Nov-23 12:35:32 - WARNING - Start training : 25000 games
+09-Nov-23 12:35:57 - INFO - [Game 100] - Temps total écoulé: 0:0:25 - Temps moyen 100 games: 0:25 - % victoire _Global_ 0.51% _100 last_ 0.51% - Remplissage mémoire 0.34%
+09-Nov-23 12:36:33 - INFO - [Game 200] - Temps total écoulé: 0:1:1 - Temps moyen 100 games: 0:30 - % victoire _Global_ 0.505% _100 last_ 0.5% - Remplissage mémoire 0.7%
+09-Nov-23 12:37:10 - INFO - [Game 300] - Temps total écoulé: 0:1:38 - Temps moyen 100 games: 0:32 - % victoire _Global_ 0.48667% _100 last_ 0.45% - Remplissage mémoire 1.04%
+09-Nov-23 12:37:48 - INFO - [Game 400] - Temps total écoulé: 0:2:16 - Temps moyen 100 games: 0:34 - % victoire _Global_ 0.4825% _100 last_ 0.47% - Remplissage mémoire 1.38%
+09-Nov-23 12:38:25 - INFO - [Game 500] - Temps total écoulé: 0:2:53 - Temps moyen 100 games: 0:34 - % victoire _Global_ 0.468% _100 last_ 0.41% - Remplissage mémoire 1.72%
+09-Nov-23 12:39:03 - INFO - [Game 600] - Temps total écoulé: 0:3:31 - Temps moyen 100 games: 0:35 - % victoire _Global_ 0.47833% _100 last_ 0.53% - Remplissage mémoire 2.06%
+09-Nov-23 12:39:41 - INFO - [Game 700] - Temps total écoulé: 0:4:9 - Temps moyen 100 games: 0:35 - % victoire _Global_ 0.47571% _100 last_ 0.46% - Remplissage mémoire 2.4%
+09-Nov-23 12:40:19 - INFO - [Game 800] - Temps total écoulé: 0:4:47 - Temps moyen 100 games: 0:35 - % victoire _Global_ 0.4725% _100 last_ 0.45% - Remplissage mémoire 2.73%
+09-Nov-23 12:40:57 - INFO - [Game 900] - Temps total écoulé: 0:5:25 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.47111% _100 last_ 0.46% - Remplissage mémoire 3.06%
+09-Nov-23 12:41:35 - INFO - [Game 1000] - Temps total écoulé: 0:6:3 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.477% _100 last_ 0.53% - Remplissage mémoire 3.4%
+09-Nov-23 12:42:14 - INFO - [Game 1100] - Temps total écoulé: 0:6:41 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.48909% _100 last_ 0.61% - Remplissage mémoire 3.73%
+09-Nov-23 12:42:51 - INFO - [Game 1200] - Temps total écoulé: 0:7:19 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.4825% _100 last_ 0.41% - Remplissage mémoire 4.06%
+09-Nov-23 12:43:29 - INFO - [Game 1300] - Temps total écoulé: 0:7:57 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.47385% _100 last_ 0.37% - Remplissage mémoire 4.39%
+09-Nov-23 12:44:06 - INFO - [Game 1400] - Temps total écoulé: 0:8:34 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.475% _100 last_ 0.49% - Remplissage mémoire 4.73%
+09-Nov-23 12:44:44 - INFO - [Game 1500] - Temps total écoulé: 0:9:12 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.476% _100 last_ 0.49% - Remplissage mémoire 5.07%
+09-Nov-23 12:45:22 - INFO - [Game 1600] - Temps total écoulé: 0:9:50 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.47813% _100 last_ 0.51% - Remplissage mémoire 5.41%
+09-Nov-23 12:46:00 - INFO - [Game 1700] - Temps total écoulé: 0:10:28 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.48294% _100 last_ 0.56% - Remplissage mémoire 5.75%
+09-Nov-23 12:46:38 - INFO - [Game 1800] - Temps total écoulé: 0:11:6 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.48389% _100 last_ 0.5% - Remplissage mémoire 6.08%
+09-Nov-23 12:47:16 - INFO - [Game 1900] - Temps total écoulé: 0:11:44 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.48368% _100 last_ 0.48% - Remplissage mémoire 6.42%
+09-Nov-23 12:47:54 - INFO - [Game 2000] - Temps total écoulé: 0:12:22 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.4835% _100 last_ 0.48% - Remplissage mémoire 6.75%
+09-Nov-23 12:48:32 - INFO - [Game 2100] - Temps total écoulé: 0:13:0 - Temps moyen 100 games: 0:37 - % victoire _Global_ 0.4819% _100 last_ 0.45% - Remplissage mémoire 7.07%
+09-Nov-23 12:49:10 - INFO - [Game 2200] - Temps total écoulé: 0:13:38 - Temps moyen 100 games: 0:37 - % victoire _Global_ 0.48273% _100 last_ 0.5% - Remplissage mémoire 7.42%
+09-Nov-23 12:49:48 - INFO - [Game 2300] - Temps total écoulé: 0:14:16 - Temps moyen 100 games: 0:37 - % victoire _Global_ 0.48391% _100 last_ 0.51% - Remplissage mémoire 7.75%
+09-Nov-23 12:50:25 - INFO - [Game 2400] - Temps total écoulé: 0:14:53 - Temps moyen 100 games: 0:37 - % victoire _Global_ 0.48667% _100 last_ 0.55% - Remplissage mémoire 8.08%
+09-Nov-23 12:51:02 - INFO - [Game 2500] - Temps total écoulé: 0:15:30 - Temps moyen 100 games: 0:37 - % victoire _Global_ 0.4896% _100 last_ 0.56% - Remplissage mémoire 8.43%
+09-Nov-23 12:51:39 - INFO - [Game 2600] - Temps total écoulé: 0:16:7 - Temps moyen 100 games: 0:37 - % victoire _Global_ 0.48885% _100 last_ 0.47% - Remplissage mémoire 8.76%
+09-Nov-23 12:52:17 - INFO - [Game 2700] - Temps total écoulé: 0:16:45 - Temps moyen 100 games: 0:37 - % victoire _Global_ 0.49% _100 last_ 0.52% - Remplissage mémoire 9.1%
+09-Nov-23 12:52:54 - INFO - [Game 2800] - Temps total écoulé: 0:17:22 - Temps moyen 100 games: 0:37 - % victoire _Global_ 0.49321% _100 last_ 0.58% - Remplissage mémoire 9.45%
+09-Nov-23 12:53:32 - INFO - [Game 2900] - Temps total écoulé: 0:18:0 - Temps moyen 100 games: 0:37 - % victoire _Global_ 0.49345% _100 last_ 0.5% - Remplissage mémoire 9.79%
+09-Nov-23 12:54:10 - INFO - [Game 3000] - Temps total écoulé: 0:18:38 - Temps moyen 100 games: 0:37 - % victoire _Global_ 0.49433% _100 last_ 0.52% - Remplissage mémoire 10.13%
+09-Nov-23 12:54:48 - INFO - [Game 3100] - Temps total écoulé: 0:19:16 - Temps moyen 100 games: 0:37 - % victoire _Global_ 0.49419% _100 last_ 0.49% - Remplissage mémoire 10.48%
+09-Nov-23 12:55:26 - INFO - [Game 3200] - Temps total écoulé: 0:19:54 - Temps moyen 100 games: 0:37 - % victoire _Global_ 0.49344% _100 last_ 0.47% - Remplissage mémoire 10.8%
+09-Nov-23 12:56:03 - INFO - [Game 3300] - Temps total écoulé: 0:20:31 - Temps moyen 100 games: 0:37 - % victoire _Global_ 0.49303% _100 last_ 0.48% - Remplissage mémoire 11.13%
+09-Nov-23 12:56:41 - INFO - [Game 3400] - Temps total écoulé: 0:21:9 - Temps moyen 100 games: 0:37 - % victoire _Global_ 0.49588% _100 last_ 0.59% - Remplissage mémoire 11.49%
+09-Nov-23 12:57:19 - INFO - [Game 3500] - Temps total écoulé: 0:21:47 - Temps moyen 100 games: 0:37 - % victoire _Global_ 0.496% _100 last_ 0.5% - Remplissage mémoire 11.81%
+09-Nov-23 12:57:56 - INFO - [Game 3600] - Temps total écoulé: 0:22:24 - Temps moyen 100 games: 0:37 - % victoire _Global_ 0.49639% _100 last_ 0.51% - Remplissage mémoire 12.16%
+09-Nov-23 12:58:34 - INFO - [Game 3700] - Temps total écoulé: 0:23:1 - Temps moyen 100 games: 0:37 - % victoire _Global_ 0.49676% _100 last_ 0.51% - Remplissage mémoire 12.51%
+09-Nov-23 12:59:11 - INFO - [Game 3800] - Temps total écoulé: 0:23:39 - Temps moyen 100 games: 0:37 - % victoire _Global_ 0.49921% _100 last_ 0.59% - Remplissage mémoire 12.85%
+09-Nov-23 12:59:48 - INFO - [Game 3900] - Temps total écoulé: 0:24:16 - Temps moyen 100 games: 0:37 - % victoire _Global_ 0.50077% _100 last_ 0.56% - Remplissage mémoire 13.19%
+09-Nov-23 13:00:26 - INFO - [Game 4000] - Temps total écoulé: 0:24:54 - Temps moyen 100 games: 0:37 - % victoire _Global_ 0.50075% _100 last_ 0.5% - Remplissage mémoire 13.52%
+09-Nov-23 13:01:03 - INFO - [Game 4100] - Temps total écoulé: 0:25:31 - Temps moyen 100 games: 0:37 - % victoire _Global_ 0.50366% _100 last_ 0.62% - Remplissage mémoire 13.85%
+09-Nov-23 13:01:41 - INFO - [Game 4200] - Temps total écoulé: 0:26:9 - Temps moyen 100 games: 0:37 - % victoire _Global_ 0.50524% _100 last_ 0.57% - Remplissage mémoire 14.19%
+09-Nov-23 13:02:18 - INFO - [Game 4300] - Temps total écoulé: 0:26:46 - Temps moyen 100 games: 0:37 - % victoire _Global_ 0.50581% _100 last_ 0.53% - Remplissage mémoire 14.53%
+09-Nov-23 13:02:54 - INFO - [Game 4400] - Temps total écoulé: 0:27:22 - Temps moyen 100 games: 0:37 - % victoire _Global_ 0.50727% _100 last_ 0.57% - Remplissage mémoire 14.85%
+09-Nov-23 13:03:30 - INFO - [Game 4500] - Temps total écoulé: 0:27:58 - Temps moyen 100 games: 0:37 - % victoire _Global_ 0.50978% _100 last_ 0.62% - Remplissage mémoire 15.19%
+09-Nov-23 13:04:05 - INFO - [Game 4600] - Temps total écoulé: 0:28:33 - Temps moyen 100 games: 0:37 - % victoire _Global_ 0.51022% _100 last_ 0.53% - Remplissage mémoire 15.52%
+09-Nov-23 13:04:41 - INFO - [Game 4700] - Temps total écoulé: 0:29:9 - Temps moyen 100 games: 0:37 - % victoire _Global_ 0.51213% _100 last_ 0.6% - Remplissage mémoire 15.86%
+09-Nov-23 13:05:17 - INFO - [Game 4800] - Temps total écoulé: 0:29:44 - Temps moyen 100 games: 0:37 - % victoire _Global_ 0.51354% _100 last_ 0.58% - Remplissage mémoire 16.2%
+09-Nov-23 13:05:52 - INFO - [Game 4900] - Temps total écoulé: 0:30:20 - Temps moyen 100 games: 0:37 - % victoire _Global_ 0.51469% _100 last_ 0.57% - Remplissage mémoire 16.54%
+09-Nov-23 13:06:27 - INFO - [Game 5000] - Temps total écoulé: 0:30:55 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.5144% _100 last_ 0.5% - Remplissage mémoire 16.87%
+09-Nov-23 13:07:03 - INFO - [Game 5100] - Temps total écoulé: 0:31:31 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.51373% _100 last_ 0.48% - Remplissage mémoire 17.22%
+09-Nov-23 13:07:39 - INFO - [Game 5200] - Temps total écoulé: 0:32:7 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.51462% _100 last_ 0.56% - Remplissage mémoire 17.56%
+09-Nov-23 13:08:15 - INFO - [Game 5300] - Temps total écoulé: 0:32:43 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.51566% _100 last_ 0.57% - Remplissage mémoire 17.88%
+09-Nov-23 13:08:50 - INFO - [Game 5400] - Temps total écoulé: 0:33:18 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.51537% _100 last_ 0.5% - Remplissage mémoire 18.22%
+09-Nov-23 13:09:26 - INFO - [Game 5500] - Temps total écoulé: 0:33:54 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.51545% _100 last_ 0.52% - Remplissage mémoire 18.56%
+09-Nov-23 13:10:01 - INFO - [Game 5600] - Temps total écoulé: 0:34:29 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.51464% _100 last_ 0.47% - Remplissage mémoire 18.91%
+09-Nov-23 13:10:37 - INFO - [Game 5700] - Temps total écoulé: 0:35:5 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.51632% _100 last_ 0.61% - Remplissage mémoire 19.25%
+09-Nov-23 13:11:13 - INFO - [Game 5800] - Temps total écoulé: 0:35:41 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.51741% _100 last_ 0.58% - Remplissage mémoire 19.57%
+09-Nov-23 13:11:48 - INFO - [Game 5900] - Temps total écoulé: 0:36:16 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.51712% _100 last_ 0.5% - Remplissage mémoire 19.93%
+09-Nov-23 13:12:24 - INFO - [Game 6000] - Temps total écoulé: 0:36:52 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.51683% _100 last_ 0.5% - Remplissage mémoire 20.25%
+09-Nov-23 13:13:00 - INFO - [Game 6100] - Temps total écoulé: 0:37:28 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.51721% _100 last_ 0.54% - Remplissage mémoire 20.58%
+09-Nov-23 13:13:35 - INFO - [Game 6200] - Temps total écoulé: 0:38:3 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.51839% _100 last_ 0.59% - Remplissage mémoire 20.91%
+09-Nov-23 13:14:11 - INFO - [Game 6300] - Temps total écoulé: 0:38:39 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.51952% _100 last_ 0.59% - Remplissage mémoire 21.25%
+09-Nov-23 13:14:47 - INFO - [Game 6400] - Temps total écoulé: 0:39:15 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.51938% _100 last_ 0.51% - Remplissage mémoire 21.57%
+09-Nov-23 13:15:22 - INFO - [Game 6500] - Temps total écoulé: 0:39:50 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.51908% _100 last_ 0.5% - Remplissage mémoire 21.93%
+09-Nov-23 13:15:58 - INFO - [Game 6600] - Temps total écoulé: 0:40:26 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.52% _100 last_ 0.58% - Remplissage mémoire 22.28%
+09-Nov-23 13:16:33 - INFO - [Game 6700] - Temps total écoulé: 0:41:1 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.52045% _100 last_ 0.55% - Remplissage mémoire 22.61%
+09-Nov-23 13:17:09 - INFO - [Game 6800] - Temps total écoulé: 0:41:37 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.52118% _100 last_ 0.57% - Remplissage mémoire 22.94%
+09-Nov-23 13:17:44 - INFO - [Game 6900] - Temps total écoulé: 0:42:12 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.52246% _100 last_ 0.61% - Remplissage mémoire 23.28%
+09-Nov-23 13:18:20 - INFO - [Game 7000] - Temps total écoulé: 0:42:48 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.52229% _100 last_ 0.51% - Remplissage mémoire 23.6%
+09-Nov-23 13:18:55 - INFO - [Game 7100] - Temps total écoulé: 0:43:23 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.52197% _100 last_ 0.5% - Remplissage mémoire 23.94%
+09-Nov-23 13:19:31 - INFO - [Game 7200] - Temps total écoulé: 0:43:59 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.52194% _100 last_ 0.52% - Remplissage mémoire 24.28%
+09-Nov-23 13:20:07 - INFO - [Game 7300] - Temps total écoulé: 0:44:35 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.52219% _100 last_ 0.54% - Remplissage mémoire 24.64%
+09-Nov-23 13:20:42 - INFO - [Game 7400] - Temps total écoulé: 0:45:10 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.5223% _100 last_ 0.53% - Remplissage mémoire 24.97%
+09-Nov-23 13:21:18 - INFO - [Game 7500] - Temps total écoulé: 0:45:46 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.5232% _100 last_ 0.59% - Remplissage mémoire 25.31%
+09-Nov-23 13:21:54 - INFO - [Game 7600] - Temps total écoulé: 0:46:21 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.52368% _100 last_ 0.56% - Remplissage mémoire 25.65%
+09-Nov-23 13:22:29 - INFO - [Game 7700] - Temps total écoulé: 0:46:57 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.52468% _100 last_ 0.6% - Remplissage mémoire 25.99%
+09-Nov-23 13:23:05 - INFO - [Game 7800] - Temps total écoulé: 0:47:33 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.52385% _100 last_ 0.46% - Remplissage mémoire 26.31%
+09-Nov-23 13:23:41 - INFO - [Game 7900] - Temps total écoulé: 0:48:9 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.52443% _100 last_ 0.57% - Remplissage mémoire 26.66%
+09-Nov-23 13:24:17 - INFO - [Game 8000] - Temps total écoulé: 0:48:45 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.526% _100 last_ 0.65% - Remplissage mémoire 27.01%
+09-Nov-23 13:24:52 - INFO - [Game 8100] - Temps total écoulé: 0:49:20 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.52716% _100 last_ 0.62% - Remplissage mémoire 27.34%
+09-Nov-23 13:25:28 - INFO - [Game 8200] - Temps total écoulé: 0:49:55 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.52707% _100 last_ 0.52% - Remplissage mémoire 27.65%
+09-Nov-23 13:26:03 - INFO - [Game 8300] - Temps total écoulé: 0:50:31 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.52747% _100 last_ 0.56% - Remplissage mémoire 27.99%
+09-Nov-23 13:26:39 - INFO - [Game 8400] - Temps total écoulé: 0:51:7 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.52738% _100 last_ 0.52% - Remplissage mémoire 28.32%
+09-Nov-23 13:27:15 - INFO - [Game 8500] - Temps total écoulé: 0:51:43 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.52635% _100 last_ 0.44% - Remplissage mémoire 28.64%
+09-Nov-23 13:27:50 - INFO - [Game 8600] - Temps total écoulé: 0:52:18 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.52605% _100 last_ 0.5% - Remplissage mémoire 28.97%
+09-Nov-23 13:28:26 - INFO - [Game 8700] - Temps total écoulé: 0:52:54 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.52678% _100 last_ 0.59% - Remplissage mémoire 29.31%
+09-Nov-23 13:29:02 - INFO - [Game 8800] - Temps total écoulé: 0:53:30 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.52682% _100 last_ 0.53% - Remplissage mémoire 29.65%
+09-Nov-23 13:29:38 - INFO - [Game 8900] - Temps total écoulé: 0:54:6 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.52652% _100 last_ 0.5% - Remplissage mémoire 29.99%
+09-Nov-23 13:30:13 - INFO - [Game 9000] - Temps total écoulé: 0:54:41 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.52667% _100 last_ 0.54% - Remplissage mémoire 30.33%
+09-Nov-23 13:30:49 - INFO - [Game 9100] - Temps total écoulé: 0:55:17 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.52736% _100 last_ 0.59% - Remplissage mémoire 30.65%
+09-Nov-23 13:31:25 - INFO - [Game 9200] - Temps total écoulé: 0:55:53 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.52707% _100 last_ 0.5% - Remplissage mémoire 30.98%
+09-Nov-23 13:32:01 - INFO - [Game 9300] - Temps total écoulé: 0:56:29 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.52656% _100 last_ 0.48% - Remplissage mémoire 31.32%
+09-Nov-23 13:32:36 - INFO - [Game 9400] - Temps total écoulé: 0:57:4 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.52585% _100 last_ 0.46% - Remplissage mémoire 31.65%
+09-Nov-23 13:33:12 - INFO - [Game 9500] - Temps total écoulé: 0:57:40 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.52663% _100 last_ 0.6% - Remplissage mémoire 31.99%
+09-Nov-23 13:33:48 - INFO - [Game 9600] - Temps total écoulé: 0:58:16 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.52604% _100 last_ 0.47% - Remplissage mémoire 32.29%
+09-Nov-23 13:34:23 - INFO - [Game 9700] - Temps total écoulé: 0:58:51 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.5266% _100 last_ 0.58% - Remplissage mémoire 32.62%
+09-Nov-23 13:34:59 - INFO - [Game 9800] - Temps total écoulé: 0:59:27 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.52673% _100 last_ 0.54% - Remplissage mémoire 32.96%
+09-Nov-23 13:35:34 - INFO - [Game 9900] - Temps total écoulé: 1:0:2 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.52667% _100 last_ 0.52% - Remplissage mémoire 33.29%
+09-Nov-23 13:36:10 - INFO - [Game 10000] - Temps total écoulé: 1:0:38 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.5277% _100 last_ 0.63% - Remplissage mémoire 33.62%
+09-Nov-23 13:36:46 - INFO - [Game 10100] - Temps total écoulé: 1:1:14 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.52891% _100 last_ 0.65% - Remplissage mémoire 33.96%
+09-Nov-23 13:37:22 - INFO - [Game 10200] - Temps total écoulé: 1:1:50 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.52804% _100 last_ 0.44% - Remplissage mémoire 34.3%
+09-Nov-23 13:37:58 - INFO - [Game 10300] - Temps total écoulé: 1:2:25 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.52796% _100 last_ 0.52% - Remplissage mémoire 34.64%
+09-Nov-23 13:38:33 - INFO - [Game 10400] - Temps total écoulé: 1:3:1 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.52769% _100 last_ 0.5% - Remplissage mémoire 34.96%
+09-Nov-23 13:39:09 - INFO - [Game 10500] - Temps total écoulé: 1:3:37 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.52743% _100 last_ 0.5% - Remplissage mémoire 35.29%
+09-Nov-23 13:39:44 - INFO - [Game 10600] - Temps total écoulé: 1:4:12 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.52698% _100 last_ 0.48% - Remplissage mémoire 35.64%
+09-Nov-23 13:40:20 - INFO - [Game 10700] - Temps total écoulé: 1:4:48 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.52813% _100 last_ 0.65% - Remplissage mémoire 35.98%
+09-Nov-23 13:40:55 - INFO - [Game 10800] - Temps total écoulé: 1:5:23 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.52824% _100 last_ 0.54% - Remplissage mémoire 36.33%
+09-Nov-23 13:41:31 - INFO - [Game 10900] - Temps total écoulé: 1:5:59 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.52817% _100 last_ 0.52% - Remplissage mémoire 36.66%
+09-Nov-23 13:42:07 - INFO - [Game 11000] - Temps total écoulé: 1:6:35 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.52855% _100 last_ 0.57% - Remplissage mémoire 37.0%
+09-Nov-23 13:42:42 - INFO - [Game 11100] - Temps total écoulé: 1:7:10 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.5282% _100 last_ 0.49% - Remplissage mémoire 37.32%
+09-Nov-23 13:43:18 - INFO - [Game 11200] - Temps total écoulé: 1:7:46 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.52893% _100 last_ 0.61% - Remplissage mémoire 37.67%
+09-Nov-23 13:43:54 - INFO - [Game 11300] - Temps total écoulé: 1:8:22 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.52938% _100 last_ 0.58% - Remplissage mémoire 37.99%
+09-Nov-23 13:44:30 - INFO - [Game 11400] - Temps total écoulé: 1:8:58 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.52956% _100 last_ 0.55% - Remplissage mémoire 38.34%
+09-Nov-23 13:45:05 - INFO - [Game 11500] - Temps total écoulé: 1:9:33 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.5293% _100 last_ 0.5% - Remplissage mémoire 38.67%
+09-Nov-23 13:45:41 - INFO - [Game 11600] - Temps total écoulé: 1:10:9 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.52957% _100 last_ 0.56% - Remplissage mémoire 39.01%
+09-Nov-23 13:46:17 - INFO - [Game 11700] - Temps total écoulé: 1:10:45 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.52974% _100 last_ 0.55% - Remplissage mémoire 39.34%
+09-Nov-23 13:46:52 - INFO - [Game 11800] - Temps total écoulé: 1:11:20 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53051% _100 last_ 0.62% - Remplissage mémoire 39.66%
+09-Nov-23 13:47:28 - INFO - [Game 11900] - Temps total écoulé: 1:11:56 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53% _100 last_ 0.47% - Remplissage mémoire 39.98%
+09-Nov-23 13:48:04 - INFO - [Game 12000] - Temps total écoulé: 1:12:32 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.52967% _100 last_ 0.49% - Remplissage mémoire 40.34%
+09-Nov-23 13:48:39 - INFO - [Game 12100] - Temps total écoulé: 1:13:7 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53033% _100 last_ 0.61% - Remplissage mémoire 40.69%
+09-Nov-23 13:49:15 - INFO - [Game 12200] - Temps total écoulé: 1:13:43 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53123% _100 last_ 0.64% - Remplissage mémoire 41.02%
+09-Nov-23 13:49:51 - INFO - [Game 12300] - Temps total écoulé: 1:14:19 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53049% _100 last_ 0.44% - Remplissage mémoire 41.34%
+09-Nov-23 13:50:27 - INFO - [Game 12400] - Temps total écoulé: 1:14:55 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53105% _100 last_ 0.6% - Remplissage mémoire 41.68%
+09-Nov-23 13:51:03 - INFO - [Game 12500] - Temps total écoulé: 1:15:31 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53072% _100 last_ 0.49% - Remplissage mémoire 42.02%
+09-Nov-23 13:51:39 - INFO - [Game 12600] - Temps total écoulé: 1:16:7 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53032% _100 last_ 0.48% - Remplissage mémoire 42.35%
+09-Nov-23 13:52:15 - INFO - [Game 12700] - Temps total écoulé: 1:16:43 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53031% _100 last_ 0.53% - Remplissage mémoire 42.68%
+09-Nov-23 13:52:50 - INFO - [Game 12800] - Temps total écoulé: 1:17:18 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53063% _100 last_ 0.57% - Remplissage mémoire 42.99%
+09-Nov-23 13:53:26 - INFO - [Game 12900] - Temps total écoulé: 1:17:54 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53062% _100 last_ 0.53% - Remplissage mémoire 43.31%
+09-Nov-23 13:54:02 - INFO - [Game 13000] - Temps total écoulé: 1:18:29 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53123% _100 last_ 0.61% - Remplissage mémoire 43.64%
+09-Nov-23 13:54:37 - INFO - [Game 13100] - Temps total écoulé: 1:19:5 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53076% _100 last_ 0.47% - Remplissage mémoire 43.97%
+09-Nov-23 13:55:13 - INFO - [Game 13200] - Temps total écoulé: 1:19:41 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53114% _100 last_ 0.58% - Remplissage mémoire 44.33%
+09-Nov-23 13:55:49 - INFO - [Game 13300] - Temps total écoulé: 1:20:17 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.5315% _100 last_ 0.58% - Remplissage mémoire 44.66%
+09-Nov-23 13:56:25 - INFO - [Game 13400] - Temps total écoulé: 1:20:53 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53149% _100 last_ 0.53% - Remplissage mémoire 44.99%
+09-Nov-23 13:57:01 - INFO - [Game 13500] - Temps total écoulé: 1:21:29 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53148% _100 last_ 0.53% - Remplissage mémoire 45.32%
+09-Nov-23 13:57:36 - INFO - [Game 13600] - Temps total écoulé: 1:22:4 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53176% _100 last_ 0.57% - Remplissage mémoire 45.66%
+09-Nov-23 13:58:12 - INFO - [Game 13700] - Temps total écoulé: 1:22:40 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53219% _100 last_ 0.59% - Remplissage mémoire 46.01%
+09-Nov-23 13:58:49 - INFO - [Game 13800] - Temps total écoulé: 1:23:16 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53225% _100 last_ 0.54% - Remplissage mémoire 46.35%
+09-Nov-23 13:59:24 - INFO - [Game 13900] - Temps total écoulé: 1:23:52 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53165% _100 last_ 0.45% - Remplissage mémoire 46.69%
+09-Nov-23 14:00:00 - INFO - [Game 14000] - Temps total écoulé: 1:24:28 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53186% _100 last_ 0.56% - Remplissage mémoire 47.04%
+09-Nov-23 14:00:36 - INFO - [Game 14100] - Temps total écoulé: 1:25:4 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53206% _100 last_ 0.56% - Remplissage mémoire 47.37%
+09-Nov-23 14:01:11 - INFO - [Game 14200] - Temps total écoulé: 1:25:39 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53155% _100 last_ 0.46% - Remplissage mémoire 47.71%
+09-Nov-23 14:01:47 - INFO - [Game 14300] - Temps total écoulé: 1:26:15 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.5314% _100 last_ 0.51% - Remplissage mémoire 48.04%
+09-Nov-23 14:02:23 - INFO - [Game 14400] - Temps total écoulé: 1:26:51 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.5309% _100 last_ 0.46% - Remplissage mémoire 48.38%
+09-Nov-23 14:02:59 - INFO - [Game 14500] - Temps total écoulé: 1:27:27 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53097% _100 last_ 0.54% - Remplissage mémoire 48.71%
+09-Nov-23 14:03:34 - INFO - [Game 14600] - Temps total écoulé: 1:28:2 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53199% _100 last_ 0.68% - Remplissage mémoire 49.05%
+09-Nov-23 14:04:10 - INFO - [Game 14700] - Temps total écoulé: 1:28:38 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53197% _100 last_ 0.53% - Remplissage mémoire 49.38%
+09-Nov-23 14:04:46 - INFO - [Game 14800] - Temps total écoulé: 1:29:14 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53155% _100 last_ 0.47% - Remplissage mémoire 49.71%
+09-Nov-23 14:05:21 - INFO - [Game 14900] - Temps total écoulé: 1:29:49 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53128% _100 last_ 0.49% - Remplissage mémoire 50.05%
+09-Nov-23 14:05:57 - INFO - [Game 15000] - Temps total écoulé: 1:30:25 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53153% _100 last_ 0.57% - Remplissage mémoire 50.38%
+09-Nov-23 14:06:33 - INFO - [Game 15100] - Temps total écoulé: 1:31:1 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53152% _100 last_ 0.53% - Remplissage mémoire 50.73%
+09-Nov-23 14:07:09 - INFO - [Game 15200] - Temps total écoulé: 1:31:37 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53197% _100 last_ 0.6% - Remplissage mémoire 51.07%
+09-Nov-23 14:07:45 - INFO - [Game 15300] - Temps total écoulé: 1:32:13 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53216% _100 last_ 0.56% - Remplissage mémoire 51.39%
+09-Nov-23 14:08:20 - INFO - [Game 15400] - Temps total écoulé: 1:32:48 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53253% _100 last_ 0.59% - Remplissage mémoire 51.73%
+09-Nov-23 14:08:56 - INFO - [Game 15500] - Temps total écoulé: 1:33:24 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53297% _100 last_ 0.6% - Remplissage mémoire 52.07%
+09-Nov-23 14:09:32 - INFO - [Game 15600] - Temps total écoulé: 1:34:0 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.5334% _100 last_ 0.6% - Remplissage mémoire 52.42%
+09-Nov-23 14:10:07 - INFO - [Game 15700] - Temps total écoulé: 1:34:35 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53325% _100 last_ 0.51% - Remplissage mémoire 52.75%
+09-Nov-23 14:10:43 - INFO - [Game 15800] - Temps total écoulé: 1:35:11 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53304% _100 last_ 0.5% - Remplissage mémoire 53.1%
+09-Nov-23 14:11:19 - INFO - [Game 15900] - Temps total écoulé: 1:35:47 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53321% _100 last_ 0.56% - Remplissage mémoire 53.45%
+09-Nov-23 14:11:55 - INFO - [Game 16000] - Temps total écoulé: 1:36:23 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53312% _100 last_ 0.52% - Remplissage mémoire 53.79%
+09-Nov-23 14:12:31 - INFO - [Game 16100] - Temps total écoulé: 1:36:59 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53298% _100 last_ 0.51% - Remplissage mémoire 54.12%
+09-Nov-23 14:13:07 - INFO - [Game 16200] - Temps total écoulé: 1:37:35 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53272% _100 last_ 0.49% - Remplissage mémoire 54.45%
+09-Nov-23 14:13:42 - INFO - [Game 16300] - Temps total écoulé: 1:38:10 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53252% _100 last_ 0.5% - Remplissage mémoire 54.78%
+09-Nov-23 14:14:19 - INFO - [Game 16400] - Temps total écoulé: 1:38:46 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53293% _100 last_ 0.6% - Remplissage mémoire 55.11%
+09-Nov-23 14:14:54 - INFO - [Game 16500] - Temps total écoulé: 1:39:22 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53267% _100 last_ 0.49% - Remplissage mémoire 55.45%
+09-Nov-23 14:15:30 - INFO - [Game 16600] - Temps total écoulé: 1:39:58 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53313% _100 last_ 0.61% - Remplissage mémoire 55.78%
+09-Nov-23 14:16:06 - INFO - [Game 16700] - Temps total écoulé: 1:40:34 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53287% _100 last_ 0.49% - Remplissage mémoire 56.11%
+09-Nov-23 14:16:41 - INFO - [Game 16800] - Temps total écoulé: 1:41:9 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.5325% _100 last_ 0.47% - Remplissage mémoire 56.44%
+09-Nov-23 14:17:18 - INFO - [Game 16900] - Temps total écoulé: 1:41:46 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53272% _100 last_ 0.57% - Remplissage mémoire 56.77%
+09-Nov-23 14:17:54 - INFO - [Game 17000] - Temps total écoulé: 1:42:21 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53259% _100 last_ 0.51% - Remplissage mémoire 57.11%
+09-Nov-23 14:18:30 - INFO - [Game 17100] - Temps total écoulé: 1:42:58 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53287% _100 last_ 0.58% - Remplissage mémoire 57.46%
+09-Nov-23 14:19:05 - INFO - [Game 17200] - Temps total écoulé: 1:43:33 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53314% _100 last_ 0.58% - Remplissage mémoire 57.8%
+09-Nov-23 14:19:41 - INFO - [Game 17300] - Temps total écoulé: 1:44:9 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53289% _100 last_ 0.49% - Remplissage mémoire 58.13%
+09-Nov-23 14:20:17 - INFO - [Game 17400] - Temps total écoulé: 1:44:45 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53287% _100 last_ 0.53% - Remplissage mémoire 58.49%
+09-Nov-23 14:20:53 - INFO - [Game 17500] - Temps total écoulé: 1:45:21 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.5328% _100 last_ 0.52% - Remplissage mémoire 58.82%
+09-Nov-23 14:21:29 - INFO - [Game 17600] - Temps total écoulé: 1:45:57 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53301% _100 last_ 0.57% - Remplissage mémoire 59.17%
+09-Nov-23 14:22:05 - INFO - [Game 17700] - Temps total écoulé: 1:46:33 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53311% _100 last_ 0.55% - Remplissage mémoire 59.51%
+09-Nov-23 14:22:41 - INFO - [Game 17800] - Temps total écoulé: 1:47:9 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53292% _100 last_ 0.5% - Remplissage mémoire 59.83%
+09-Nov-23 14:23:17 - INFO - [Game 17900] - Temps total écoulé: 1:47:45 - Temps moyen 100 games: 0:35 - % victoire _Global_ 0.53307% _100 last_ 0.56% - Remplissage mémoire 60.18%
+09-Nov-23 14:23:53 - INFO - [Game 18000] - Temps total écoulé: 1:48:21 - Temps moyen 100 games: 0:35 - % victoire _Global_ 0.53289% _100 last_ 0.5% - Remplissage mémoire 60.53%
+09-Nov-23 14:24:29 - INFO - [Game 18100] - Temps total écoulé: 1:48:56 - Temps moyen 100 games: 0:35 - % victoire _Global_ 0.53326% _100 last_ 0.6% - Remplissage mémoire 60.86%
+09-Nov-23 14:25:05 - INFO - [Game 18200] - Temps total écoulé: 1:49:33 - Temps moyen 100 games: 0:35 - % victoire _Global_ 0.53368% _100 last_ 0.61% - Remplissage mémoire 61.19%
+09-Nov-23 14:25:42 - INFO - [Game 18300] - Temps total écoulé: 1:50:10 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53377% _100 last_ 0.55% - Remplissage mémoire 61.51%
+09-Nov-23 14:26:18 - INFO - [Game 18400] - Temps total écoulé: 1:50:46 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53359% _100 last_ 0.5% - Remplissage mémoire 61.84%
+09-Nov-23 14:26:54 - INFO - [Game 18500] - Temps total écoulé: 1:51:22 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53351% _100 last_ 0.52% - Remplissage mémoire 62.17%
+09-Nov-23 14:27:32 - INFO - [Game 18600] - Temps total écoulé: 1:52:0 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53403% _100 last_ 0.63% - Remplissage mémoire 62.52%
+09-Nov-23 14:28:08 - INFO - [Game 18700] - Temps total écoulé: 1:52:36 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53428% _100 last_ 0.58% - Remplissage mémoire 62.86%
+09-Nov-23 14:28:45 - INFO - [Game 18800] - Temps total écoulé: 1:53:13 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53404% _100 last_ 0.49% - Remplissage mémoire 63.19%
+09-Nov-23 14:29:22 - INFO - [Game 18900] - Temps total écoulé: 1:53:50 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53418% _100 last_ 0.56% - Remplissage mémoire 63.52%
+09-Nov-23 14:29:58 - INFO - [Game 19000] - Temps total écoulé: 1:54:26 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53432% _100 last_ 0.56% - Remplissage mémoire 63.86%
+09-Nov-23 14:30:35 - INFO - [Game 19100] - Temps total écoulé: 1:55:3 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53445% _100 last_ 0.56% - Remplissage mémoire 64.18%
+09-Nov-23 14:31:12 - INFO - [Game 19200] - Temps total écoulé: 1:55:40 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53417% _100 last_ 0.48% - Remplissage mémoire 64.51%
+09-Nov-23 14:31:48 - INFO - [Game 19300] - Temps total écoulé: 1:56:16 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53446% _100 last_ 0.59% - Remplissage mémoire 64.86%
+09-Nov-23 14:32:24 - INFO - [Game 19400] - Temps total écoulé: 1:56:52 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53459% _100 last_ 0.56% - Remplissage mémoire 65.21%
+09-Nov-23 14:33:01 - INFO - [Game 19500] - Temps total écoulé: 1:57:29 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53482% _100 last_ 0.58% - Remplissage mémoire 65.53%
+09-Nov-23 14:33:38 - INFO - [Game 19600] - Temps total écoulé: 1:58:6 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53505% _100 last_ 0.58% - Remplissage mémoire 65.88%
+09-Nov-23 14:34:14 - INFO - [Game 19700] - Temps total écoulé: 1:58:42 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53508% _100 last_ 0.54% - Remplissage mémoire 66.21%
+09-Nov-23 14:34:52 - INFO - [Game 19800] - Temps total écoulé: 1:59:20 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53515% _100 last_ 0.55% - Remplissage mémoire 66.54%
+09-Nov-23 14:35:33 - INFO - [Game 19900] - Temps total écoulé: 2:0:1 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53492% _100 last_ 0.49% - Remplissage mémoire 66.86%
+09-Nov-23 14:36:11 - INFO - [Game 20000] - Temps total écoulé: 2:0:39 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53505% _100 last_ 0.56% - Remplissage mémoire 67.19%
+09-Nov-23 14:36:49 - INFO - [Game 20100] - Temps total écoulé: 2:1:17 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53517% _100 last_ 0.56% - Remplissage mémoire 67.52%
+09-Nov-23 14:37:25 - INFO - [Game 20200] - Temps total écoulé: 2:1:53 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53505% _100 last_ 0.51% - Remplissage mémoire 67.87%
+09-Nov-23 14:38:02 - INFO - [Game 20300] - Temps total écoulé: 2:2:30 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53512% _100 last_ 0.55% - Remplissage mémoire 68.22%
+09-Nov-23 14:38:38 - INFO - [Game 20400] - Temps total écoulé: 2:3:6 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53525% _100 last_ 0.56% - Remplissage mémoire 68.56%
+09-Nov-23 14:39:15 - INFO - [Game 20500] - Temps total écoulé: 2:3:43 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53561% _100 last_ 0.61% - Remplissage mémoire 68.91%
+09-Nov-23 14:39:52 - INFO - [Game 20600] - Temps total écoulé: 2:4:20 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53583% _100 last_ 0.58% - Remplissage mémoire 69.25%
+09-Nov-23 14:40:29 - INFO - [Game 20700] - Temps total écoulé: 2:4:56 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53633% _100 last_ 0.64% - Remplissage mémoire 69.59%
+09-Nov-23 14:41:05 - INFO - [Game 20800] - Temps total écoulé: 2:5:33 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53639% _100 last_ 0.55% - Remplissage mémoire 69.92%
+09-Nov-23 14:41:41 - INFO - [Game 20900] - Temps total écoulé: 2:6:9 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53665% _100 last_ 0.59% - Remplissage mémoire 70.24%
+09-Nov-23 14:42:18 - INFO - [Game 21000] - Temps total écoulé: 2:6:46 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53638% _100 last_ 0.48% - Remplissage mémoire 70.56%
+09-Nov-23 14:42:55 - INFO - [Game 21100] - Temps total écoulé: 2:7:23 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53645% _100 last_ 0.55% - Remplissage mémoire 70.9%
+09-Nov-23 14:43:33 - INFO - [Game 21200] - Temps total écoulé: 2:8:1 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53642% _100 last_ 0.53% - Remplissage mémoire 71.23%
+09-Nov-23 14:44:09 - INFO - [Game 21300] - Temps total écoulé: 2:8:37 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53624% _100 last_ 0.5% - Remplissage mémoire 71.56%
+09-Nov-23 14:44:45 - INFO - [Game 21400] - Temps total écoulé: 2:9:13 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53645% _100 last_ 0.58% - Remplissage mémoire 71.89%
+09-Nov-23 14:45:21 - INFO - [Game 21500] - Temps total écoulé: 2:9:49 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53609% _100 last_ 0.46% - Remplissage mémoire 72.21%
+09-Nov-23 14:45:57 - INFO - [Game 21600] - Temps total écoulé: 2:10:25 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53644% _100 last_ 0.61% - Remplissage mémoire 72.55%
+09-Nov-23 14:46:33 - INFO - [Game 21700] - Temps total écoulé: 2:11:1 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53636% _100 last_ 0.52% - Remplissage mémoire 72.87%
+09-Nov-23 14:47:09 - INFO - [Game 21800] - Temps total écoulé: 2:11:37 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53674% _100 last_ 0.62% - Remplissage mémoire 73.22%
+09-Nov-23 14:47:45 - INFO - [Game 21900] - Temps total écoulé: 2:12:13 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.5368% _100 last_ 0.55% - Remplissage mémoire 73.55%
+09-Nov-23 14:48:20 - INFO - [Game 22000] - Temps total écoulé: 2:12:48 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53664% _100 last_ 0.5% - Remplissage mémoire 73.88%
+09-Nov-23 14:48:56 - INFO - [Game 22100] - Temps total écoulé: 2:13:24 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53656% _100 last_ 0.52% - Remplissage mémoire 74.22%
+09-Nov-23 14:49:32 - INFO - [Game 22200] - Temps total écoulé: 2:14:0 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53662% _100 last_ 0.55% - Remplissage mémoire 74.54%
+09-Nov-23 14:50:08 - INFO - [Game 22300] - Temps total écoulé: 2:14:36 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53668% _100 last_ 0.55% - Remplissage mémoire 74.89%
+09-Nov-23 14:50:43 - INFO - [Game 22400] - Temps total écoulé: 2:15:11 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53674% _100 last_ 0.55% - Remplissage mémoire 75.22%
+09-Nov-23 14:51:19 - INFO - [Game 22500] - Temps total écoulé: 2:15:47 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.5372% _100 last_ 0.64% - Remplissage mémoire 75.56%
+09-Nov-23 14:51:55 - INFO - [Game 22600] - Temps total écoulé: 2:16:23 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53695% _100 last_ 0.48% - Remplissage mémoire 75.9%
+09-Nov-23 14:52:31 - INFO - [Game 22700] - Temps total écoulé: 2:16:59 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53718% _100 last_ 0.59% - Remplissage mémoire 76.25%
+09-Nov-23 14:53:07 - INFO - [Game 22800] - Temps total écoulé: 2:17:35 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53746% _100 last_ 0.6% - Remplissage mémoire 76.58%
+09-Nov-23 14:53:43 - INFO - [Game 22900] - Temps total écoulé: 2:18:11 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53742% _100 last_ 0.53% - Remplissage mémoire 76.92%
+09-Nov-23 14:54:19 - INFO - [Game 23000] - Temps total écoulé: 2:18:47 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.5373% _100 last_ 0.51% - Remplissage mémoire 77.26%
+09-Nov-23 14:54:55 - INFO - [Game 23100] - Temps total écoulé: 2:19:23 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.5371% _100 last_ 0.49% - Remplissage mémoire 77.6%
+09-Nov-23 14:55:30 - INFO - [Game 23200] - Temps total écoulé: 2:19:58 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53733% _100 last_ 0.59% - Remplissage mémoire 77.93%
+09-Nov-23 14:56:06 - INFO - [Game 23300] - Temps total écoulé: 2:20:34 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53742% _100 last_ 0.56% - Remplissage mémoire 78.27%
+09-Nov-23 14:56:42 - INFO - [Game 23400] - Temps total écoulé: 2:21:10 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53739% _100 last_ 0.53% - Remplissage mémoire 78.61%
+09-Nov-23 14:57:18 - INFO - [Game 23500] - Temps total écoulé: 2:21:46 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53732% _100 last_ 0.52% - Remplissage mémoire 78.95%
+09-Nov-23 14:57:54 - INFO - [Game 23600] - Temps total écoulé: 2:22:22 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53746% _100 last_ 0.57% - Remplissage mémoire 79.3%
+09-Nov-23 14:58:31 - INFO - [Game 23700] - Temps total écoulé: 2:22:59 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53734% _100 last_ 0.51% - Remplissage mémoire 79.64%
+09-Nov-23 14:59:08 - INFO - [Game 23800] - Temps total écoulé: 2:23:36 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53739% _100 last_ 0.55% - Remplissage mémoire 79.98%
+09-Nov-23 14:59:45 - INFO - [Game 23900] - Temps total écoulé: 2:24:13 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53757% _100 last_ 0.58% - Remplissage mémoire 80.33%
+09-Nov-23 15:00:22 - INFO - [Game 24000] - Temps total écoulé: 2:24:50 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53738% _100 last_ 0.49% - Remplissage mémoire 80.66%
+09-Nov-23 15:01:00 - INFO - [Game 24100] - Temps total écoulé: 2:25:28 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53763% _100 last_ 0.6% - Remplissage mémoire 81.01%
+09-Nov-23 15:01:37 - INFO - [Game 24200] - Temps total écoulé: 2:26:5 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53744% _100 last_ 0.49% - Remplissage mémoire 81.34%
+09-Nov-23 15:02:14 - INFO - [Game 24300] - Temps total écoulé: 2:26:42 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53741% _100 last_ 0.53% - Remplissage mémoire 81.67%
+09-Nov-23 15:02:51 - INFO - [Game 24400] - Temps total écoulé: 2:27:19 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.5375% _100 last_ 0.56% - Remplissage mémoire 82.02%
+09-Nov-23 15:03:28 - INFO - [Game 24500] - Temps total écoulé: 2:27:56 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53776% _100 last_ 0.6% - Remplissage mémoire 82.37%
+09-Nov-23 15:04:04 - INFO - [Game 24600] - Temps total écoulé: 2:28:32 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53789% _100 last_ 0.57% - Remplissage mémoire 82.71%
+09-Nov-23 15:04:40 - INFO - [Game 24700] - Temps total écoulé: 2:29:8 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53777% _100 last_ 0.51% - Remplissage mémoire 83.05%
+09-Nov-23 15:05:16 - INFO - [Game 24800] - Temps total écoulé: 2:29:44 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53794% _100 last_ 0.58% - Remplissage mémoire 83.38%
+09-Nov-23 15:05:51 - INFO - [Game 24900] - Temps total écoulé: 2:30:19 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53803% _100 last_ 0.56% - Remplissage mémoire 83.72%
+09-Nov-23 15:06:28 - INFO - [Game 25000] - Temps total écoulé: 2:30:55 - Temps moyen 100 games: 0:36 - % victoire _Global_ 0.53808% _100 last_ 0.55% - Remplissage mémoire 84.05%
