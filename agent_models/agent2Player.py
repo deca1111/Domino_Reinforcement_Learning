@@ -128,11 +128,11 @@ class Agent2Player:
         with open(fileName, 'wb') as handle:
             pickle.dump(self.memory, handle, protocol=pickle.HIGHEST_PROTOCOL)
 
-    def startTraining(self, maxNbGame: int, nomModeleToSave: str):
+    def startTraining(self, maxNbGame: int, nomModelToSave: str):
         self.nbGame = 0
 
         racineSave = "./agent_models/savedModel/"
-        racineSave = os.path.join(racineSave, nomModeleToSave)
+        racineSave = os.path.join(racineSave, nomModelToSave)
 
         # Si le dossier de sauvegarde n'existe pas, on le crée
         if not os.path.exists(racineSave):
@@ -227,11 +227,11 @@ class Agent2Player:
                         break
 
                 if self.nbGame % 1000 == 0 and self.nbGame != 0:
-                    self.model.save(os.path.join(racineSave, f"{nomModeleToSave}_model.pth"))
+                    self.model.save(os.path.join(racineSave, f"{nomModelToSave}_model.pth"))
 
         # Sauvegarde finale
         savePlot(plotXProportionVictoire, plotProportionVictoire,
                  plotXMeanProportionVictoire, plotMeanProportionVictoire,
                  os.path.join(racineSave, "plotMetrics.png"))
         self.saveMemory(os.path.join(racineSave, f"savedMemory_{len(self.memory)}_{MAX_MEMORY}.pickle"))
-        self.model.save(os.path.join(racineSave, f"{nomModeleToSave}_model.pth"))
+        self.model.save(os.path.join(racineSave, f"{nomModelToSave}_model.pth"))
